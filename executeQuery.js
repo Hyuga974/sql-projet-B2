@@ -2,6 +2,9 @@ const sqlite3 = require("sqlite3").verbose();
 
 function executeQuery(databaseFile, sqlQuery) {
   return new Promise((resolve, reject) => {
+    if (sqlQuery == "") {
+      reject("Query vide");
+    }
     let results = [];
     let db = new sqlite3.Database(databaseFile, (err) => {
       if (err) {

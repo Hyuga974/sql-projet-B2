@@ -2,17 +2,17 @@ const executeQuery = require("../executeQuery");
 const { q1Results } = require("../expectedResults");
 const q1 = require("../student_answer/q1");
 
-test("La 1er propriété doit s'appeller 'name'", async () => {
+test("La 1er propriété doit s'appeler 'N°'", async () => {
   let queryResults = await executeQuery("./data/pokemonDB.db", q1);
-  expect(Object.keys(queryResults[0])[0]).toEqual("name");
+  expect(Object.keys(queryResults[0])[0]).toEqual("N°");
 });
-test("La 2ème propriété doit s'appeller 'height'", async () => {
+test("La 2ème propriété doit s'appeler 'Pokemon'", async () => {
   let queryResults = await executeQuery("./data/pokemonDB.db", q1);
-  expect(Object.keys(queryResults[0])[1]).toEqual("height");
+  expect(Object.keys(queryResults[0])[1]).toEqual("Pokemon");
 });
-test("La 3ème propriété doit s'appeller 'weight'", async () => {
+test("La 3ème propriété doit s'appeler 'Description'", async () => {
   let queryResults = await executeQuery("./data/pokemonDB.db", q1);
-  expect(Object.keys(queryResults[0])[2]).toEqual("weight");
+  expect(Object.keys(queryResults[0])[2]).toEqual("Description");
 });
 test("Les résultats sont corrects et dans le bonne ordre", async () => {
   let queryResults = await executeQuery("./data/pokemonDB.db", q1);
