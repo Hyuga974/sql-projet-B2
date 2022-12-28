@@ -16,7 +16,7 @@ test("Les résultats sont corrects et dans le bonne ordre", async () => {
 });
 test("La requête ne contient pas le nom du pokémon ou son numéro de pokédex ou son id", () => {
   expect(
-    ["mew", "pokemon_pokedex_number", "548"].some((substring) =>
+    ["mew", "pokedex_number", "548"].some((substring) =>
       q11.toLowerCase().includes(substring)
     )
   ).toEqual(false);

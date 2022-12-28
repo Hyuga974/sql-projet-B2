@@ -7302,411 +7302,411 @@ const q8Results = [
 
 const q9Results = [
   {
-    type_name: "Normal",
-    move_name: "Mania",
-    move_power: 120,
-    move_accuracy: 100,
-    move_description:
+    name: "Normal",
+    name: "Mania",
+    power: 120,
+    accuracy: 100,
+    description:
       "Une attaque furieuse qui dure de deux à trois tours.\nLe lanceur devient confus.",
   },
   {
-    type_name: "Normal",
-    move_name: "Damoclès",
-    move_power: 120,
-    move_accuracy: 100,
-    move_description:
+    name: "Normal",
+    name: "Damoclès",
+    power: 120,
+    accuracy: 100,
+    description:
       "Une charge dangereuse et imprudente.\nBlesse aussi gravement le lanceur.",
   },
   {
-    type_name: "Plante",
-    move_name: "Danse Fleurs",
-    move_power: 120,
-    move_accuracy: 100,
-    move_description:
+    name: "Plante",
+    name: "Danse Fleurs",
+    power: 120,
+    accuracy: 100,
+    description:
       "Le lanceur attaque en projetant des pétales pendant\ndeux à trois tours avant de céder à la confusion.",
   },
   {
-    type_name: "Normal",
-    move_name: "Destruction",
-    move_power: 200,
-    move_accuracy: 100,
-    move_description:
+    name: "Normal",
+    name: "Destruction",
+    power: 200,
+    accuracy: 100,
+    description:
       "Le lanceur explose en blessant tous les Pokémon\nautour de lui. Le lanceur tombe K.O.",
   },
   {
-    type_name: "Combat",
-    move_name: "Pied Voltige",
-    move_power: 130,
-    move_accuracy: 90,
-    move_description:
+    name: "Combat",
+    name: "Pied Voltige",
+    power: 130,
+    accuracy: 90,
+    description:
       "Le lanceur s’élance pour effectuer un coup de genou\nsauté. S’il échoue, le lanceur se blesse.",
   },
   {
-    type_name: "Vol",
-    move_name: "Piqué",
-    move_power: 140,
-    move_accuracy: 90,
-    move_description:
+    name: "Vol",
+    name: "Piqué",
+    power: 140,
+    accuracy: 90,
+    description:
       "Une attaque en deux tours au taux de critiques élevé.\nPeut aussi apeurer l’ennemi.",
   },
   {
-    type_name: "Normal",
-    move_name: "Explosion",
-    move_power: 250,
-    move_accuracy: 100,
-    move_description:
+    name: "Normal",
+    name: "Explosion",
+    power: 250,
+    accuracy: 100,
+    description:
       "Le lanceur explose et inflige des dégâts à tous\nles Pokémon autour de lui. Met K.O. le lanceur.",
   },
   {
-    type_name: "Dragon",
-    move_name: "Colère",
-    move_power: 120,
-    move_accuracy: 100,
-    move_description:
+    name: "Dragon",
+    name: "Colère",
+    power: 120,
+    accuracy: 100,
+    description:
       "Le lanceur enrage et attaque pendant deux ou trois tours\navant de devenir confus.",
   },
   {
-    type_name: "Psy",
-    move_name: "Prescience",
-    move_power: 120,
-    move_accuracy: 100,
-    move_description:
+    name: "Psy",
+    name: "Prescience",
+    power: 120,
+    accuracy: 100,
+    description:
       "De l’énergie psychique vient frapper l’ennemi\ndeux tours après l’utilisation de cette capacité.",
   },
   {
-    type_name: "Combat",
-    move_name: "Mitra-Poing",
-    move_power: 150,
-    move_accuracy: 100,
-    move_description:
+    name: "Combat",
+    name: "Mitra-Poing",
+    power: 150,
+    accuracy: 100,
+    description:
       "Le lanceur se concentre avant d’attaquer.\nÉchoue s’il est touché avant d’avoir frappé.",
   },
   {
-    type_name: "Combat",
-    move_name: "Surpuissance",
-    move_power: 120,
-    move_accuracy: 100,
-    move_description:
+    name: "Combat",
+    name: "Surpuissance",
+    power: 120,
+    accuracy: 100,
+    description:
       "Une attaque puissante, mais qui baisse l’Attaque\net la Défense du lanceur.",
   },
   {
-    type_name: "Feu",
-    move_name: "Éruption",
-    move_power: 150,
-    move_accuracy: 100,
-    move_description:
+    name: "Feu",
+    name: "Éruption",
+    power: 150,
+    accuracy: 100,
+    description:
       "Le lanceur laisse exploser sa colère.\nPlus ses PV sont bas, moins l’attaque est puissante.",
   },
   {
-    type_name: "Feu",
-    move_name: "Surchauffe",
-    move_power: 130,
-    move_accuracy: 90,
-    move_description:
+    name: "Feu",
+    name: "Surchauffe",
+    power: 130,
+    accuracy: 90,
+    description:
       "Attaque l’ennemi à pleine puissance.\nLe contrecoup baisse beaucoup l’Attaque Spéciale\ndu lanceur.",
   },
   {
-    type_name: "Eau",
-    move_name: "Giclédo",
-    move_power: 150,
-    move_accuracy: 100,
-    move_description:
+    name: "Eau",
+    name: "Giclédo",
+    power: 150,
+    accuracy: 100,
+    description:
       "Le lanceur attaque avec un jet d’eau.\nMoins il a de PV et moins l’attaque est puissante.",
   },
   {
-    type_name: "Electrik",
-    move_name: "Électacle",
-    move_power: 120,
-    move_accuracy: 100,
-    move_description:
+    name: "Electrik",
+    name: "Électacle",
+    power: 120,
+    accuracy: 100,
+    description:
       "Le lanceur électrifie son corps avant de charger.\nLe choc blesse aussi gravement le lanceur\net peut paralyser l’ennemi.",
   },
   {
-    type_name: "Acier",
-    move_name: "Vœu Destructeur",
-    move_power: 140,
-    move_accuracy: 100,
-    move_description:
+    name: "Acier",
+    name: "Vœu Destructeur",
+    power: 140,
+    accuracy: 100,
+    description:
       "Le lanceur génère une sphère lumineuse qu’il projette\nsur l’ennemi deux tours plus tard.",
   },
   {
-    type_name: "Psy",
-    move_name: "Psycho-Boost",
-    move_power: 140,
-    move_accuracy: 90,
-    move_description:
+    name: "Psy",
+    name: "Psycho-Boost",
+    power: 140,
+    accuracy: 90,
+    description:
       "Cette capacité ne peut pas être utilisée.\nIl est recommandé de l’oublier, même s’il sera\nimpossible de se la remémorer une fois oubliée.",
   },
   {
-    type_name: "Combat",
-    move_name: "Close Combat",
-    move_power: 120,
-    move_accuracy: 100,
-    move_description:
+    name: "Combat",
+    name: "Close Combat",
+    power: 120,
+    accuracy: 100,
+    description:
       "Le lanceur combat au corps à corps sans se protéger.\nBaisse aussi sa Défense et sa Défense Spéciale.",
   },
   {
-    type_name: "Normal",
-    move_name: "Dernier Recours",
-    move_power: 140,
-    move_accuracy: 100,
-    move_description:
+    name: "Normal",
+    name: "Dernier Recours",
+    power: 140,
+    accuracy: 100,
+    description:
       "Cette capacité ne peut être utilisée qu’après\nque le lanceur a utilisé toutes les autres.",
   },
   {
-    type_name: "Feu",
-    move_name: "Boutefeu",
-    move_power: 120,
-    move_accuracy: 100,
-    move_description:
+    name: "Feu",
+    name: "Boutefeu",
+    power: 120,
+    accuracy: 100,
+    description:
       "Le lanceur s’embrase avant de charger l’ennemi.\nLe choc blesse aussi gravement le lanceur.\nPeut brûler l’ennemi.",
   },
   {
-    type_name: "Vol",
-    move_name: "Rapace",
-    move_power: 120,
-    move_accuracy: 100,
-    move_description:
+    name: "Vol",
+    name: "Rapace",
+    power: 120,
+    accuracy: 100,
+    description:
       "Le lanceur replie ses ailes et charge en rase-mottes.\nBlesse gravement le lanceur.",
   },
   {
-    type_name: "Dragon",
-    move_name: "Draco-Météore",
-    move_power: 130,
-    move_accuracy: 90,
-    move_description:
+    name: "Dragon",
+    name: "Draco-Météore",
+    power: 130,
+    accuracy: 90,
+    description:
       "Le lanceur invoque des comètes.\nLe contrecoup réduit beaucoup son Attaque Spéciale.",
   },
   {
-    type_name: "Plante",
-    move_name: "Tempête Verte",
-    move_power: 130,
-    move_accuracy: 90,
-    move_description:
+    name: "Plante",
+    name: "Tempête Verte",
+    power: 130,
+    accuracy: 90,
+    description:
       "Invoque une tempête de feuilles acérées.\nLe contrecoup réduit beaucoup l’Attaque Spéciale\ndu lanceur.",
   },
   {
-    type_name: "Plante",
-    move_name: "Martobois",
-    move_power: 120,
-    move_accuracy: 100,
-    move_description:
+    name: "Plante",
+    name: "Martobois",
+    power: 120,
+    accuracy: 100,
+    description:
       "Le lanceur heurte l’ennemi de son corps robuste.\nBlesse aussi gravement le lanceur.",
   },
   {
-    type_name: "Spectre",
-    move_name: "Revenant",
-    move_power: 120,
-    move_accuracy: 100,
-    move_description:
+    name: "Spectre",
+    name: "Revenant",
+    power: 120,
+    accuracy: 100,
+    description:
       "Le lanceur disparaît et frappe l’ennemi au second tour.\nFonctionne même si l’ennemi se protège.",
   },
   {
-    type_name: "Psy",
-    move_name: "Synchropeine",
-    move_power: 120,
-    move_accuracy: 100,
-    move_description:
+    name: "Psy",
+    name: "Synchropeine",
+    power: 120,
+    accuracy: 100,
+    description:
       "Cette capacité ne peut pas être utilisée.\nIl est recommandé de l’oublier, même s’il sera\nimpossible de se la remémorer une fois oubliée.",
   },
   {
-    type_name: "Normal",
-    move_name: "Peignée",
-    move_power: 120,
-    move_accuracy: 100,
-    move_description:
+    name: "Normal",
+    name: "Peignée",
+    power: 120,
+    accuracy: 100,
+    description:
       "Le lanceur donne un coup avec sa tête couronnée\nd’une fière crinière. Blesse aussi légèrement le lanceur.",
   },
   {
-    type_name: "Normal",
-    move_name: "Techno-Buster",
-    move_power: 120,
-    move_accuracy: 100,
-    move_description:
+    name: "Normal",
+    name: "Techno-Buster",
+    power: 120,
+    accuracy: 100,
+    description:
       "Le lanceur projette un rayon lumineux sur l’ennemi.\nLe type varie selon le Module que tient le lanceur.",
   },
   {
-    type_name: "Glace",
-    move_name: "Éclair Gelé",
-    move_power: 140,
-    move_accuracy: 90,
-    move_description:
+    name: "Glace",
+    name: "Éclair Gelé",
+    power: 140,
+    accuracy: 90,
+    description:
       "Projette un bloc de glace électrifié sur l’ennemi\nau second tour. Peut aussi le paralyser.",
   },
   {
-    type_name: "Glace",
-    move_name: "Feu Glacé",
-    move_power: 140,
-    move_accuracy: 90,
-    move_description:
+    name: "Glace",
+    name: "Feu Glacé",
+    power: 140,
+    accuracy: 90,
+    description:
       "Au second tour, le lanceur projette un souffle de vent\nglacial dévastateur sur l’ennemi. Peut aussi le brûler.",
   },
   {
-    type_name: "Feu",
-    move_name: "Coup Victoire",
-    move_power: 180,
-    move_accuracy: 95,
-    move_description:
+    name: "Feu",
+    name: "Coup Victoire",
+    power: 180,
+    accuracy: 95,
+    description:
       "Le lanceur projette une flamme ardente de son front\net se jette sur l’ennemi. Baisse la Défense, la Défense\nSpéciale et la Vitesse.",
   },
   {
-    type_name: "Poison",
-    move_name: "Éructation",
-    move_power: 120,
-    move_accuracy: 90,
-    move_description:
+    name: "Poison",
+    name: "Éructation",
+    power: 120,
+    accuracy: 90,
+    description:
       "Le lanceur se tourne vers l’ennemi et lui éructe dessus,\ninfligeant des dégâts. Ne fonctionne que si le lanceur\nconsomme la Baie qu’il tient.",
   },
   {
-    type_name: "Normal",
-    move_name: "Bang Sonique",
-    move_power: 140,
-    move_accuracy: 100,
-    move_description:
+    name: "Normal",
+    name: "Bang Sonique",
+    power: 140,
+    accuracy: 100,
+    description:
       "Attaque les Pokémon alentour grâce à une onde sonore\nassourdissante qui détruit tout sur son passage.",
   },
   {
-    type_name: "Eau",
-    move_name: "Jet de Vapeur",
-    move_power: 110,
-    move_accuracy: 95,
-    move_description:
+    name: "Eau",
+    name: "Jet de Vapeur",
+    power: 110,
+    accuracy: 95,
+    description:
       "Plonge l’ennemi dans une chaleur étouffante.\nPeut le brûler.",
   },
   {
-    type_name: "Fée",
-    move_name: "Lumière du Néant",
-    move_power: 140,
-    move_accuracy: 90,
-    move_description:
+    name: "Fée",
+    name: "Lumière du Néant",
+    power: 140,
+    accuracy: 90,
+    description:
       "Utilise la puissance de la fleur Éternelle pour lancer\nun formidable rayon d’énergie.\nBlesse aussi gravement le lanceur.",
   },
   {
-    type_name: "Vol",
-    move_name: "Draco-Ascension",
-    move_power: 120,
-    move_accuracy: 100,
-    move_description:
+    name: "Vol",
+    name: "Draco-Ascension",
+    power: 120,
+    accuracy: 100,
+    description:
       "Le Pokémon s’abat à toute vitesse sur la cible\ndepuis les hautes couches de l’atmosphère.\nBaisse la Défense et la Défense Spéciale du lanceur.",
   },
   {
-    type_name: "Feu",
-    move_name: "Flamme Ultime",
-    move_power: 130,
-    move_accuracy: 100,
-    move_description:
+    name: "Feu",
+    name: "Flamme Ultime",
+    power: 130,
+    accuracy: 100,
+    description:
       "Le Pokémon se consume et les flammes de son corps\ninfligent des dégâts élevés à la cible.\nLe lanceur perd le type Feu.",
   },
   {
-    type_name: "Dragon",
-    move_name: "Vibrécaille",
-    move_power: 110,
-    move_accuracy: 100,
-    move_description:
+    name: "Dragon",
+    name: "Vibrécaille",
+    power: 110,
+    accuracy: 100,
+    description:
       "Le lanceur déclenche un vacarme en frottant\nses écailles les unes contre les autres pour attaquer.\nBaisse la Défense du lanceur.",
   },
   {
-    type_name: "Feu",
-    move_name: "Carapiège",
-    move_power: 150,
-    move_accuracy: 100,
-    move_description:
+    name: "Feu",
+    name: "Carapiège",
+    power: 150,
+    accuracy: 100,
+    description:
       "Pose une carapace piégée. Si l’adversaire utilise\nune capacité physique, la carapace explose et lui inflige\ndes dégâts.",
   },
   {
-    type_name: "Fée",
-    move_name: "Canon Floral",
-    move_power: 130,
-    move_accuracy: 90,
-    move_description:
+    name: "Fée",
+    name: "Canon Floral",
+    power: 130,
+    accuracy: 90,
+    description:
       "Envoie un rayon laser dévastateur.\nBaisse beaucoup l’Attaque Spéciale du lanceur.",
   },
   {
-    type_name: "Normal",
-    move_name: "Coup Varia-Type",
-    move_power: 120,
-    move_accuracy: 100,
-    move_description:
+    name: "Normal",
+    name: "Coup Varia-Type",
+    power: 120,
+    accuracy: 100,
+    description:
       "Le Pokémon s’entoure d’une puissante énergie\navant de foncer sur sa cible. Le type de la capacité\ndépend de la ROM installée.",
   },
   {
-    type_name: "Feu",
-    move_name: "Caboche-Kaboum",
-    move_power: 150,
-    move_accuracy: 100,
-    move_description:
+    name: "Feu",
+    name: "Caboche-Kaboum",
+    power: 150,
+    accuracy: 100,
+    description:
       "Le lanceur fait exploser sa tête pour attaquer\ntoutes les cibles autour de lui.\nIl subit aussi des dégâts.",
   },
   {
-    type_name: "Feu",
-    move_name: "Ballon Brûlant",
-    move_power: 120,
-    move_accuracy: 90,
-    move_description:
+    name: "Feu",
+    name: "Ballon Brûlant",
+    power: 120,
+    accuracy: 90,
+    description:
       "Le lanceur attaque avec un ballon fait à partir\nd’un caillou enflammé. Peut aussi brûler la cible.",
   },
   {
-    type_name: "Electrik",
-    move_name: "Roue Libre",
-    move_power: 110,
-    move_accuracy: 100,
-    move_description:
+    name: "Electrik",
+    name: "Roue Libre",
+    power: 110,
+    accuracy: 100,
+    description:
       "Morpeko libère l’énergie stockée dans ses joues\npour attaquer et augmenter sa Vitesse. Le type de cette\ncapacité change en fonction de la forme de Morpeko.",
   },
   {
-    type_name: "Acier",
-    move_name: "Métalaser",
-    move_power: 140,
-    move_accuracy: 95,
-    move_description:
+    name: "Acier",
+    name: "Métalaser",
+    power: 140,
+    accuracy: 95,
+    description:
       "Le lanceur concentre du métal issu de tout son corps\nen un rayon qu’il projette violemment sur sa cible.\nIl subit aussi des dégâts.",
   },
   {
-    type_name: "Acier",
-    move_name: "Métalliroue",
-    move_power: 130,
-    move_accuracy: 100,
-    move_description:
+    name: "Acier",
+    name: "Métalliroue",
+    power: 130,
+    accuracy: 100,
+    description:
       "Une attaque qui inflige des dégâts et fait disparaître\nle champ actif, mais qui échoue s’il n’y en a pas\nà ce moment.",
   },
   {
-    type_name: "Roche",
-    move_name: "Laser Météore",
-    move_power: 120,
-    move_accuracy: 90,
-    move_description:
+    name: "Roche",
+    name: "Laser Météore",
+    power: 120,
+    accuracy: 90,
+    description:
       "Le lanceur concentre l’énergie cosmique au premier\ntour, ce qui augmente son Attaque Spéciale, et frappe\nau second.",
   },
   {
-    type_name: "Spectre",
-    move_name: "Esprit Frappeur",
-    move_power: 110,
-    move_accuracy: 90,
-    move_description:
+    name: "Spectre",
+    name: "Esprit Frappeur",
+    power: 110,
+    accuracy: 90,
+    description:
       "Le lanceur manipule l’objet tenu par l’ennemi\npour l’attaquer. Échoue si la cible ne tient rien.",
   },
   {
-    type_name: "Dragon",
-    move_name: "Draco-Énergie",
-    move_power: 150,
-    move_accuracy: 100,
-    move_description:
+    name: "Dragon",
+    name: "Draco-Énergie",
+    power: 150,
+    accuracy: 100,
+    description:
       "Le lanceur utilise son énergie vitale pour attaquer\nl’ennemi. Moins il a de PV, moins l’attaque est puissante.",
   },
   {
-    type_name: "Glace",
-    move_name: "Lance de Glace",
-    move_power: 130,
-    move_accuracy: 100,
-    move_description:
+    name: "Glace",
+    name: "Lance de Glace",
+    power: 130,
+    accuracy: 100,
+    description:
       "Le lanceur attaque l’ennemi avec une lance de glace\nentourée d’un blizzard.",
   },
   {
-    type_name: "Spectre",
-    move_name: "Éclat Spectral",
-    move_power: 120,
-    move_accuracy: 100,
-    move_description:
+    name: "Spectre",
+    name: "Éclat Spectral",
+    power: 120,
+    accuracy: 100,
+    description:
       "Le lanceur attaque l’ennemi avec une multitude\nde petits spectres.",
   },
 ];
