@@ -1,6 +1,6 @@
 const executeQuery = require("../executeQuery");
 const { q11Results } = require("../expectedResults");
-const q11 = require("../student_answer/q11");
+const q11 = require("../student_answer/part_1/q11");
 
 test("La 1er propriété doit s'appeler 'Pokemon'", async () => {
   let queryResults = await executeQuery("./data/pokemonDB.db", q11);
