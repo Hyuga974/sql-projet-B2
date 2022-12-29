@@ -17,6 +17,6 @@ test("Les résultats sont corrects et dans le bonne ordre", async () => {
 
 test("La requête recherche le talent avec son nom", () => {
   expect(
-    ["coloforce"].some((substring) => q12.toLowerCase().includes(substring))
+    ["coloforce"].some((substring) => q5.toLowerCase().includes(substring))
   ).toEqual(true);
 });

@@ -7302,412 +7302,412 @@ const q8Results = [
 
 const q9Results = [
   {
-    name: "Normal",
-    name: "Mania",
-    power: 120,
-    accuracy: 100,
-    description:
-      "Une attaque furieuse qui dure de deux à trois tours.\nLe lanceur devient confus.",
-  },
-  {
-    name: "Normal",
-    name: "Damoclès",
-    power: 120,
-    accuracy: 100,
-    description:
-      "Une charge dangereuse et imprudente.\nBlesse aussi gravement le lanceur.",
-  },
-  {
-    name: "Plante",
-    name: "Danse Fleurs",
-    power: 120,
-    accuracy: 100,
-    description:
-      "Le lanceur attaque en projetant des pétales pendant\ndeux à trois tours avant de céder à la confusion.",
-  },
-  {
-    name: "Normal",
-    name: "Destruction",
-    power: 200,
-    accuracy: 100,
-    description:
-      "Le lanceur explose en blessant tous les Pokémon\nautour de lui. Le lanceur tombe K.O.",
-  },
-  {
-    name: "Combat",
-    name: "Pied Voltige",
-    power: 130,
-    accuracy: 90,
-    description:
-      "Le lanceur s’élance pour effectuer un coup de genou\nsauté. S’il échoue, le lanceur se blesse.",
-  },
-  {
-    name: "Vol",
-    name: "Piqué",
-    power: 140,
-    accuracy: 90,
-    description:
-      "Une attaque en deux tours au taux de critiques élevé.\nPeut aussi apeurer l’ennemi.",
-  },
-  {
-    name: "Normal",
-    name: "Explosion",
-    power: 250,
-    accuracy: 100,
-    description:
+    Type: "Normal",
+    Capacité: "Explosion",
+    Puissance: 250,
+    Précision: 100,
+    Description:
       "Le lanceur explose et inflige des dégâts à tous\nles Pokémon autour de lui. Met K.O. le lanceur.",
   },
   {
-    name: "Dragon",
-    name: "Colère",
-    power: 120,
-    accuracy: 100,
-    description:
-      "Le lanceur enrage et attaque pendant deux ou trois tours\navant de devenir confus.",
+    Type: "Normal",
+    Capacité: "Destruction",
+    Puissance: 200,
+    Précision: 100,
+    Description:
+      "Le lanceur explose en blessant tous les Pokémon\nautour de lui. Le lanceur tombe K.O.",
   },
   {
-    name: "Psy",
-    name: "Prescience",
-    power: 120,
-    accuracy: 100,
-    description:
-      "De l’énergie psychique vient frapper l’ennemi\ndeux tours après l’utilisation de cette capacité.",
-  },
-  {
-    name: "Combat",
-    name: "Mitra-Poing",
-    power: 150,
-    accuracy: 100,
-    description:
-      "Le lanceur se concentre avant d’attaquer.\nÉchoue s’il est touché avant d’avoir frappé.",
-  },
-  {
-    name: "Combat",
-    name: "Surpuissance",
-    power: 120,
-    accuracy: 100,
-    description:
-      "Une attaque puissante, mais qui baisse l’Attaque\net la Défense du lanceur.",
-  },
-  {
-    name: "Feu",
-    name: "Éruption",
-    power: 150,
-    accuracy: 100,
-    description:
-      "Le lanceur laisse exploser sa colère.\nPlus ses PV sont bas, moins l’attaque est puissante.",
-  },
-  {
-    name: "Feu",
-    name: "Surchauffe",
-    power: 130,
-    accuracy: 90,
-    description:
-      "Attaque l’ennemi à pleine puissance.\nLe contrecoup baisse beaucoup l’Attaque Spéciale\ndu lanceur.",
-  },
-  {
-    name: "Eau",
-    name: "Giclédo",
-    power: 150,
-    accuracy: 100,
-    description:
-      "Le lanceur attaque avec un jet d’eau.\nMoins il a de PV et moins l’attaque est puissante.",
-  },
-  {
-    name: "Electrik",
-    name: "Électacle",
-    power: 120,
-    accuracy: 100,
-    description:
-      "Le lanceur électrifie son corps avant de charger.\nLe choc blesse aussi gravement le lanceur\net peut paralyser l’ennemi.",
-  },
-  {
-    name: "Acier",
-    name: "Vœu Destructeur",
-    power: 140,
-    accuracy: 100,
-    description:
-      "Le lanceur génère une sphère lumineuse qu’il projette\nsur l’ennemi deux tours plus tard.",
-  },
-  {
-    name: "Psy",
-    name: "Psycho-Boost",
-    power: 140,
-    accuracy: 90,
-    description:
-      "Cette capacité ne peut pas être utilisée.\nIl est recommandé de l’oublier, même s’il sera\nimpossible de se la remémorer une fois oubliée.",
-  },
-  {
-    name: "Combat",
-    name: "Close Combat",
-    power: 120,
-    accuracy: 100,
-    description:
-      "Le lanceur combat au corps à corps sans se protéger.\nBaisse aussi sa Défense et sa Défense Spéciale.",
-  },
-  {
-    name: "Normal",
-    name: "Dernier Recours",
-    power: 140,
-    accuracy: 100,
-    description:
-      "Cette capacité ne peut être utilisée qu’après\nque le lanceur a utilisé toutes les autres.",
-  },
-  {
-    name: "Feu",
-    name: "Boutefeu",
-    power: 120,
-    accuracy: 100,
-    description:
-      "Le lanceur s’embrase avant de charger l’ennemi.\nLe choc blesse aussi gravement le lanceur.\nPeut brûler l’ennemi.",
-  },
-  {
-    name: "Vol",
-    name: "Rapace",
-    power: 120,
-    accuracy: 100,
-    description:
-      "Le lanceur replie ses ailes et charge en rase-mottes.\nBlesse gravement le lanceur.",
-  },
-  {
-    name: "Dragon",
-    name: "Draco-Météore",
-    power: 130,
-    accuracy: 90,
-    description:
-      "Le lanceur invoque des comètes.\nLe contrecoup réduit beaucoup son Attaque Spéciale.",
-  },
-  {
-    name: "Plante",
-    name: "Tempête Verte",
-    power: 130,
-    accuracy: 90,
-    description:
-      "Invoque une tempête de feuilles acérées.\nLe contrecoup réduit beaucoup l’Attaque Spéciale\ndu lanceur.",
-  },
-  {
-    name: "Plante",
-    name: "Martobois",
-    power: 120,
-    accuracy: 100,
-    description:
-      "Le lanceur heurte l’ennemi de son corps robuste.\nBlesse aussi gravement le lanceur.",
-  },
-  {
-    name: "Spectre",
-    name: "Revenant",
-    power: 120,
-    accuracy: 100,
-    description:
-      "Le lanceur disparaît et frappe l’ennemi au second tour.\nFonctionne même si l’ennemi se protège.",
-  },
-  {
-    name: "Psy",
-    name: "Synchropeine",
-    power: 120,
-    accuracy: 100,
-    description:
-      "Cette capacité ne peut pas être utilisée.\nIl est recommandé de l’oublier, même s’il sera\nimpossible de se la remémorer une fois oubliée.",
-  },
-  {
-    name: "Normal",
-    name: "Peignée",
-    power: 120,
-    accuracy: 100,
-    description:
-      "Le lanceur donne un coup avec sa tête couronnée\nd’une fière crinière. Blesse aussi légèrement le lanceur.",
-  },
-  {
-    name: "Normal",
-    name: "Techno-Buster",
-    power: 120,
-    accuracy: 100,
-    description:
-      "Le lanceur projette un rayon lumineux sur l’ennemi.\nLe type varie selon le Module que tient le lanceur.",
-  },
-  {
-    name: "Glace",
-    name: "Éclair Gelé",
-    power: 140,
-    accuracy: 90,
-    description:
-      "Projette un bloc de glace électrifié sur l’ennemi\nau second tour. Peut aussi le paralyser.",
-  },
-  {
-    name: "Glace",
-    name: "Feu Glacé",
-    power: 140,
-    accuracy: 90,
-    description:
-      "Au second tour, le lanceur projette un souffle de vent\nglacial dévastateur sur l’ennemi. Peut aussi le brûler.",
-  },
-  {
-    name: "Feu",
-    name: "Coup Victoire",
-    power: 180,
-    accuracy: 95,
-    description:
+    Type: "Feu",
+    Capacité: "Coup Victoire",
+    Puissance: 180,
+    Précision: 95,
+    Description:
       "Le lanceur projette une flamme ardente de son front\net se jette sur l’ennemi. Baisse la Défense, la Défense\nSpéciale et la Vitesse.",
   },
   {
-    name: "Poison",
-    name: "Éructation",
-    power: 120,
-    accuracy: 90,
-    description:
-      "Le lanceur se tourne vers l’ennemi et lui éructe dessus,\ninfligeant des dégâts. Ne fonctionne que si le lanceur\nconsomme la Baie qu’il tient.",
+    Type: "Combat",
+    Capacité: "Mitra-Poing",
+    Puissance: 150,
+    Précision: 100,
+    Description:
+      "Le lanceur se concentre avant d’attaquer.\nÉchoue s’il est touché avant d’avoir frappé.",
   },
   {
-    name: "Normal",
-    name: "Bang Sonique",
-    power: 140,
-    accuracy: 100,
-    description:
-      "Attaque les Pokémon alentour grâce à une onde sonore\nassourdissante qui détruit tout sur son passage.",
+    Type: "Feu",
+    Capacité: "Éruption",
+    Puissance: 150,
+    Précision: 100,
+    Description:
+      "Le lanceur laisse exploser sa colère.\nPlus ses PV sont bas, moins l’attaque est puissante.",
   },
   {
-    name: "Eau",
-    name: "Jet de Vapeur",
-    power: 110,
-    accuracy: 95,
-    description:
-      "Plonge l’ennemi dans une chaleur étouffante.\nPeut le brûler.",
+    Type: "Eau",
+    Capacité: "Giclédo",
+    Puissance: 150,
+    Précision: 100,
+    Description:
+      "Le lanceur attaque avec un jet d’eau.\nMoins il a de PV et moins l’attaque est puissante.",
   },
   {
-    name: "Fée",
-    name: "Lumière du Néant",
-    power: 140,
-    accuracy: 90,
-    description:
-      "Utilise la puissance de la fleur Éternelle pour lancer\nun formidable rayon d’énergie.\nBlesse aussi gravement le lanceur.",
-  },
-  {
-    name: "Vol",
-    name: "Draco-Ascension",
-    power: 120,
-    accuracy: 100,
-    description:
-      "Le Pokémon s’abat à toute vitesse sur la cible\ndepuis les hautes couches de l’atmosphère.\nBaisse la Défense et la Défense Spéciale du lanceur.",
-  },
-  {
-    name: "Feu",
-    name: "Flamme Ultime",
-    power: 130,
-    accuracy: 100,
-    description:
-      "Le Pokémon se consume et les flammes de son corps\ninfligent des dégâts élevés à la cible.\nLe lanceur perd le type Feu.",
-  },
-  {
-    name: "Dragon",
-    name: "Vibrécaille",
-    power: 110,
-    accuracy: 100,
-    description:
-      "Le lanceur déclenche un vacarme en frottant\nses écailles les unes contre les autres pour attaquer.\nBaisse la Défense du lanceur.",
-  },
-  {
-    name: "Feu",
-    name: "Carapiège",
-    power: 150,
-    accuracy: 100,
-    description:
+    Type: "Feu",
+    Capacité: "Carapiège",
+    Puissance: 150,
+    Précision: 100,
+    Description:
       "Pose une carapace piégée. Si l’adversaire utilise\nune capacité physique, la carapace explose et lui inflige\ndes dégâts.",
   },
   {
-    name: "Fée",
-    name: "Canon Floral",
-    power: 130,
-    accuracy: 90,
-    description:
-      "Envoie un rayon laser dévastateur.\nBaisse beaucoup l’Attaque Spéciale du lanceur.",
-  },
-  {
-    name: "Normal",
-    name: "Coup Varia-Type",
-    power: 120,
-    accuracy: 100,
-    description:
-      "Le Pokémon s’entoure d’une puissante énergie\navant de foncer sur sa cible. Le type de la capacité\ndépend de la ROM installée.",
-  },
-  {
-    name: "Feu",
-    name: "Caboche-Kaboum",
-    power: 150,
-    accuracy: 100,
-    description:
+    Type: "Feu",
+    Capacité: "Caboche-Kaboum",
+    Puissance: 150,
+    Précision: 100,
+    Description:
       "Le lanceur fait exploser sa tête pour attaquer\ntoutes les cibles autour de lui.\nIl subit aussi des dégâts.",
   },
   {
-    name: "Feu",
-    name: "Ballon Brûlant",
-    power: 120,
-    accuracy: 90,
-    description:
-      "Le lanceur attaque avec un ballon fait à partir\nd’un caillou enflammé. Peut aussi brûler la cible.",
-  },
-  {
-    name: "Electrik",
-    name: "Roue Libre",
-    power: 110,
-    accuracy: 100,
-    description:
-      "Morpeko libère l’énergie stockée dans ses joues\npour attaquer et augmenter sa Vitesse. Le type de cette\ncapacité change en fonction de la forme de Morpeko.",
-  },
-  {
-    name: "Acier",
-    name: "Métalaser",
-    power: 140,
-    accuracy: 95,
-    description:
-      "Le lanceur concentre du métal issu de tout son corps\nen un rayon qu’il projette violemment sur sa cible.\nIl subit aussi des dégâts.",
-  },
-  {
-    name: "Acier",
-    name: "Métalliroue",
-    power: 130,
-    accuracy: 100,
-    description:
-      "Une attaque qui inflige des dégâts et fait disparaître\nle champ actif, mais qui échoue s’il n’y en a pas\nà ce moment.",
-  },
-  {
-    name: "Roche",
-    name: "Laser Météore",
-    power: 120,
-    accuracy: 90,
-    description:
-      "Le lanceur concentre l’énergie cosmique au premier\ntour, ce qui augmente son Attaque Spéciale, et frappe\nau second.",
-  },
-  {
-    name: "Spectre",
-    name: "Esprit Frappeur",
-    power: 110,
-    accuracy: 90,
-    description:
-      "Le lanceur manipule l’objet tenu par l’ennemi\npour l’attaquer. Échoue si la cible ne tient rien.",
-  },
-  {
-    name: "Dragon",
-    name: "Draco-Énergie",
-    power: 150,
-    accuracy: 100,
-    description:
+    Type: "Dragon",
+    Capacité: "Draco-Énergie",
+    Puissance: 150,
+    Précision: 100,
+    Description:
       "Le lanceur utilise son énergie vitale pour attaquer\nl’ennemi. Moins il a de PV, moins l’attaque est puissante.",
   },
   {
-    name: "Glace",
-    name: "Lance de Glace",
-    power: 130,
-    accuracy: 100,
-    description:
+    Type: "Vol",
+    Capacité: "Piqué",
+    Puissance: 140,
+    Précision: 90,
+    Description:
+      "Une attaque en deux tours au taux de critiques élevé.\nPeut aussi apeurer l’ennemi.",
+  },
+  {
+    Type: "Acier",
+    Capacité: "Vœu Destructeur",
+    Puissance: 140,
+    Précision: 100,
+    Description:
+      "Le lanceur génère une sphère lumineuse qu’il projette\nsur l’ennemi deux tours plus tard.",
+  },
+  {
+    Type: "Psy",
+    Capacité: "Psycho-Boost",
+    Puissance: 140,
+    Précision: 90,
+    Description:
+      "Cette capacité ne peut pas être utilisée.\nIl est recommandé de l’oublier, même s’il sera\nimpossible de se la remémorer une fois oubliée.",
+  },
+  {
+    Type: "Normal",
+    Capacité: "Dernier Recours",
+    Puissance: 140,
+    Précision: 100,
+    Description:
+      "Cette capacité ne peut être utilisée qu’après\nque le lanceur a utilisé toutes les autres.",
+  },
+  {
+    Type: "Glace",
+    Capacité: "Éclair Gelé",
+    Puissance: 140,
+    Précision: 90,
+    Description:
+      "Projette un bloc de glace électrifié sur l’ennemi\nau second tour. Peut aussi le paralyser.",
+  },
+  {
+    Type: "Glace",
+    Capacité: "Feu Glacé",
+    Puissance: 140,
+    Précision: 90,
+    Description:
+      "Au second tour, le lanceur projette un souffle de vent\nglacial dévastateur sur l’ennemi. Peut aussi le brûler.",
+  },
+  {
+    Type: "Normal",
+    Capacité: "Bang Sonique",
+    Puissance: 140,
+    Précision: 100,
+    Description:
+      "Attaque les Pokémon alentour grâce à une onde sonore\nassourdissante qui détruit tout sur son passage.",
+  },
+  {
+    Type: "Fée",
+    Capacité: "Lumière du Néant",
+    Puissance: 140,
+    Précision: 90,
+    Description:
+      "Utilise la puissance de la fleur Éternelle pour lancer\nun formidable rayon d’énergie.\nBlesse aussi gravement le lanceur.",
+  },
+  {
+    Type: "Acier",
+    Capacité: "Métalaser",
+    Puissance: 140,
+    Précision: 95,
+    Description:
+      "Le lanceur concentre du métal issu de tout son corps\nen un rayon qu’il projette violemment sur sa cible.\nIl subit aussi des dégâts.",
+  },
+  {
+    Type: "Combat",
+    Capacité: "Pied Voltige",
+    Puissance: 130,
+    Précision: 90,
+    Description:
+      "Le lanceur s’élance pour effectuer un coup de genou\nsauté. S’il échoue, le lanceur se blesse.",
+  },
+  {
+    Type: "Feu",
+    Capacité: "Surchauffe",
+    Puissance: 130,
+    Précision: 90,
+    Description:
+      "Attaque l’ennemi à pleine puissance.\nLe contrecoup baisse beaucoup l’Attaque Spéciale\ndu lanceur.",
+  },
+  {
+    Type: "Dragon",
+    Capacité: "Draco-Météore",
+    Puissance: 130,
+    Précision: 90,
+    Description:
+      "Le lanceur invoque des comètes.\nLe contrecoup réduit beaucoup son Attaque Spéciale.",
+  },
+  {
+    Type: "Plante",
+    Capacité: "Tempête Verte",
+    Puissance: 130,
+    Précision: 90,
+    Description:
+      "Invoque une tempête de feuilles acérées.\nLe contrecoup réduit beaucoup l’Attaque Spéciale\ndu lanceur.",
+  },
+  {
+    Type: "Feu",
+    Capacité: "Flamme Ultime",
+    Puissance: 130,
+    Précision: 100,
+    Description:
+      "Le Pokémon se consume et les flammes de son corps\ninfligent des dégâts élevés à la cible.\nLe lanceur perd le type Feu.",
+  },
+  {
+    Type: "Fée",
+    Capacité: "Canon Floral",
+    Puissance: 130,
+    Précision: 90,
+    Description:
+      "Envoie un rayon laser dévastateur.\nBaisse beaucoup l’Attaque Spéciale du lanceur.",
+  },
+  {
+    Type: "Acier",
+    Capacité: "Métalliroue",
+    Puissance: 130,
+    Précision: 100,
+    Description:
+      "Une attaque qui inflige des dégâts et fait disparaître\nle champ actif, mais qui échoue s’il n’y en a pas\nà ce moment.",
+  },
+  {
+    Type: "Glace",
+    Capacité: "Lance de Glace",
+    Puissance: 130,
+    Précision: 100,
+    Description:
       "Le lanceur attaque l’ennemi avec une lance de glace\nentourée d’un blizzard.",
   },
   {
-    name: "Spectre",
-    name: "Éclat Spectral",
-    power: 120,
-    accuracy: 100,
-    description:
+    Type: "Normal",
+    Capacité: "Mania",
+    Puissance: 120,
+    Précision: 100,
+    Description:
+      "Une attaque furieuse qui dure de deux à trois tours.\nLe lanceur devient confus.",
+  },
+  {
+    Type: "Normal",
+    Capacité: "Damoclès",
+    Puissance: 120,
+    Précision: 100,
+    Description:
+      "Une charge dangereuse et imprudente.\nBlesse aussi gravement le lanceur.",
+  },
+  {
+    Type: "Plante",
+    Capacité: "Danse Fleurs",
+    Puissance: 120,
+    Précision: 100,
+    Description:
+      "Le lanceur attaque en projetant des pétales pendant\ndeux à trois tours avant de céder à la confusion.",
+  },
+  {
+    Type: "Dragon",
+    Capacité: "Colère",
+    Puissance: 120,
+    Précision: 100,
+    Description:
+      "Le lanceur enrage et attaque pendant deux ou trois tours\navant de devenir confus.",
+  },
+  {
+    Type: "Psy",
+    Capacité: "Prescience",
+    Puissance: 120,
+    Précision: 100,
+    Description:
+      "De l’énergie psychique vient frapper l’ennemi\ndeux tours après l’utilisation de cette capacité.",
+  },
+  {
+    Type: "Combat",
+    Capacité: "Surpuissance",
+    Puissance: 120,
+    Précision: 100,
+    Description:
+      "Une attaque puissante, mais qui baisse l’Attaque\net la Défense du lanceur.",
+  },
+  {
+    Type: "Electrik",
+    Capacité: "Électacle",
+    Puissance: 120,
+    Précision: 100,
+    Description:
+      "Le lanceur électrifie son corps avant de charger.\nLe choc blesse aussi gravement le lanceur\net peut paralyser l’ennemi.",
+  },
+  {
+    Type: "Combat",
+    Capacité: "Close Combat",
+    Puissance: 120,
+    Précision: 100,
+    Description:
+      "Le lanceur combat au corps à corps sans se protéger.\nBaisse aussi sa Défense et sa Défense Spéciale.",
+  },
+  {
+    Type: "Feu",
+    Capacité: "Boutefeu",
+    Puissance: 120,
+    Précision: 100,
+    Description:
+      "Le lanceur s’embrase avant de charger l’ennemi.\nLe choc blesse aussi gravement le lanceur.\nPeut brûler l’ennemi.",
+  },
+  {
+    Type: "Vol",
+    Capacité: "Rapace",
+    Puissance: 120,
+    Précision: 100,
+    Description:
+      "Le lanceur replie ses ailes et charge en rase-mottes.\nBlesse gravement le lanceur.",
+  },
+  {
+    Type: "Plante",
+    Capacité: "Martobois",
+    Puissance: 120,
+    Précision: 100,
+    Description:
+      "Le lanceur heurte l’ennemi de son corps robuste.\nBlesse aussi gravement le lanceur.",
+  },
+  {
+    Type: "Spectre",
+    Capacité: "Revenant",
+    Puissance: 120,
+    Précision: 100,
+    Description:
+      "Le lanceur disparaît et frappe l’ennemi au second tour.\nFonctionne même si l’ennemi se protège.",
+  },
+  {
+    Type: "Psy",
+    Capacité: "Synchropeine",
+    Puissance: 120,
+    Précision: 100,
+    Description:
+      "Cette capacité ne peut pas être utilisée.\nIl est recommandé de l’oublier, même s’il sera\nimpossible de se la remémorer une fois oubliée.",
+  },
+  {
+    Type: "Normal",
+    Capacité: "Peignée",
+    Puissance: 120,
+    Précision: 100,
+    Description:
+      "Le lanceur donne un coup avec sa tête couronnée\nd’une fière crinière. Blesse aussi légèrement le lanceur.",
+  },
+  {
+    Type: "Normal",
+    Capacité: "Techno-Buster",
+    Puissance: 120,
+    Précision: 100,
+    Description:
+      "Le lanceur projette un rayon lumineux sur l’ennemi.\nLe type varie selon le Module que tient le lanceur.",
+  },
+  {
+    Type: "Poison",
+    Capacité: "Éructation",
+    Puissance: 120,
+    Précision: 90,
+    Description:
+      "Le lanceur se tourne vers l’ennemi et lui éructe dessus,\ninfligeant des dégâts. Ne fonctionne que si le lanceur\nconsomme la Baie qu’il tient.",
+  },
+  {
+    Type: "Vol",
+    Capacité: "Draco-Ascension",
+    Puissance: 120,
+    Précision: 100,
+    Description:
+      "Le Pokémon s’abat à toute vitesse sur la cible\ndepuis les hautes couches de l’atmosphère.\nBaisse la Défense et la Défense Spéciale du lanceur.",
+  },
+  {
+    Type: "Normal",
+    Capacité: "Coup Varia-Type",
+    Puissance: 120,
+    Précision: 100,
+    Description:
+      "Le Pokémon s’entoure d’une puissante énergie\navant de foncer sur sa cible. Le type de la capacité\ndépend de la ROM installée.",
+  },
+  {
+    Type: "Feu",
+    Capacité: "Ballon Brûlant",
+    Puissance: 120,
+    Précision: 90,
+    Description:
+      "Le lanceur attaque avec un ballon fait à partir\nd’un caillou enflammé. Peut aussi brûler la cible.",
+  },
+  {
+    Type: "Roche",
+    Capacité: "Laser Météore",
+    Puissance: 120,
+    Précision: 90,
+    Description:
+      "Le lanceur concentre l’énergie cosmique au premier\ntour, ce qui augmente son Attaque Spéciale, et frappe\nau second.",
+  },
+  {
+    Type: "Spectre",
+    Capacité: "Éclat Spectral",
+    Puissance: 120,
+    Précision: 100,
+    Description:
       "Le lanceur attaque l’ennemi avec une multitude\nde petits spectres.",
+  },
+  {
+    Type: "Eau",
+    Capacité: "Jet de Vapeur",
+    Puissance: 110,
+    Précision: 95,
+    Description:
+      "Plonge l’ennemi dans une chaleur étouffante.\nPeut le brûler.",
+  },
+  {
+    Type: "Dragon",
+    Capacité: "Vibrécaille",
+    Puissance: 110,
+    Précision: 100,
+    Description:
+      "Le lanceur déclenche un vacarme en frottant\nses écailles les unes contre les autres pour attaquer.\nBaisse la Défense du lanceur.",
+  },
+  {
+    Type: "Electrik",
+    Capacité: "Roue Libre",
+    Puissance: 110,
+    Précision: 100,
+    Description:
+      "Morpeko libère l’énergie stockée dans ses joues\npour attaquer et augmenter sa Vitesse. Le type de cette\ncapacité change en fonction de la forme de Morpeko.",
+  },
+  {
+    Type: "Spectre",
+    Capacité: "Esprit Frappeur",
+    Puissance: 110,
+    Précision: 90,
+    Description:
+      "Le lanceur manipule l’objet tenu par l’ennemi\npour l’attaquer. Échoue si la cible ne tient rien.",
   },
 ];
 
@@ -8258,6 +8258,135 @@ const q14Results = [
   },
 ];
 
+const q15Results = [
+  {
+    Type: "Acier",
+    "Moyenne gen 1 total stat": 395,
+    "Moyenne gen 3 total stat": 463,
+    "Moyenne gen 5 total stat": 347,
+    "Moyenne gen 7 total stat": 570,
+  },
+  {
+    Type: "Combat",
+    "Moyenne gen 1 total stat": 424,
+    "Moyenne gen 3 total stat": 399,
+    "Moyenne gen 5 total stat": 186,
+    "Moyenne gen 7 total stat": 490,
+  },
+  {
+    Type: "Dragon",
+    "Moyenne gen 1 total stat": 440,
+    "Moyenne gen 3 total stat": 505,
+    "Moyenne gen 5 total stat": 455,
+    "Moyenne gen 7 total stat": 485,
+  },
+  {
+    Type: "Eau",
+    "Moyenne gen 1 total stat": 412,
+    "Moyenne gen 3 total stat": 401,
+    "Moyenne gen 5 total stat": 660,
+    "Moyenne gen 7 total stat": 398,
+  },
+  {
+    Type: "Electrik",
+    "Moyenne gen 1 total stat": 445,
+    "Moyenne gen 3 total stat": 395,
+    "Moyenne gen 5 total stat": 143,
+    "Moyenne gen 7 total stat": 512,
+  },
+  {
+    Type: "Fée",
+    "Moyenne gen 1 total stat": 394,
+    "Moyenne gen 3 total stat": 312,
+    "Moyenne gen 5 total stat": 782,
+    "Moyenne gen 7 total stat": 485,
+  },
+  {
+    Type: "Feu",
+    "Moyenne gen 1 total stat": 455,
+    "Moyenne gen 3 total stat": 413,
+    "Moyenne gen 5 total stat": 165,
+    "Moyenne gen 7 total stat": 450,
+  },
+  {
+    Type: "Glace",
+    "Moyenne gen 1 total stat": 514,
+    "Moyenne gen 3 total stat": 431,
+    "Moyenne gen 5 total stat": 370,
+    "Moyenne gen 7 total stat": 478,
+  },
+  {
+    Type: "Insecte",
+    "Moyenne gen 1 total stat": 336,
+    "Moyenne gen 3 total stat": 341,
+    "Moyenne gen 5 total stat": 265,
+    "Moyenne gen 7 total stat": 417,
+  },
+  {
+    Type: "Normal",
+    "Moyenne gen 1 total stat": 382,
+    "Moyenne gen 3 total stat": 372,
+    "Moyenne gen 5 total stat": 394,
+    "Moyenne gen 7 total stat": 431,
+  },
+  {
+    Type: "Plante",
+    "Moyenne gen 1 total stat": 400,
+    "Moyenne gen 3 total stat": 388,
+    "Moyenne gen 5 total stat": 330,
+    "Moyenne gen 7 total stat": 412,
+  },
+  {
+    Type: "Poison",
+    "Moyenne gen 1 total stat": 382,
+    "Moyenne gen 3 total stat": 402,
+    "Moyenne gen 5 total stat": 287,
+    "Moyenne gen 7 total stat": 447,
+  },
+  {
+    Type: "Psy",
+    "Moyenne gen 1 total stat": 456,
+    "Moyenne gen 3 total stat": 431,
+    "Moyenne gen 5 total stat": 575,
+    "Moyenne gen 7 total stat": 511,
+  },
+  {
+    Type: "Roche",
+    "Moyenne gen 1 total stat": 419,
+    "Moyenne gen 3 total stat": 445,
+    "Moyenne gen 5 total stat": 535,
+    "Moyenne gen 7 total stat": 469,
+  },
+  {
+    Type: "Sol",
+    "Moyenne gen 1 total stat": 399,
+    "Moyenne gen 3 total stat": 411,
+    "Moyenne gen 5 total stat": 486,
+    "Moyenne gen 7 total stat": 421,
+  },
+  {
+    Type: "Spectre",
+    "Moyenne gen 1 total stat": 405,
+    "Moyenne gen 3 total stat": 352,
+    "Moyenne gen 5 total stat": 235,
+    "Moyenne gen 7 total stat": 521,
+  },
+  {
+    Type: "Ténèbres",
+    "Moyenne gen 1 total stat": 0,
+    "Moyenne gen 3 total stat": 401,
+    "Moyenne gen 5 total stat": 250,
+    "Moyenne gen 7 total stat": 550,
+  },
+  {
+    Type: "Vol",
+    "Moyenne gen 1 total stat": 445,
+    "Moyenne gen 3 total stat": 440,
+    "Moyenne gen 5 total stat": 293,
+    "Moyenne gen 7 total stat": 416,
+  },
+];
+
 module.exports = {
   q1Results,
   q2Results,
@@ -8273,4 +8402,5 @@ module.exports = {
   q12Results,
   q13Results,
   q14Results,
+  q15Results,
 };

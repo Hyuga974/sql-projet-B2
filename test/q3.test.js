@@ -31,6 +31,6 @@ test("Les résultats sont corrects et dans le bonne ordre", async () => {
 
 test("La requête recherche le type avec son nom", () => {
   expect(
-    ["roche"].some((substring) => q12.toLowerCase().includes(substring))
+    ["roche"].some((substring) => q3.toLowerCase().includes(substring))
   ).toEqual(true);
 });
