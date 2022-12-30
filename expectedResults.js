@@ -7227,16 +7227,16 @@ const q8Results = [
     "Nombre de pokémon avec le type slot 2": 9,
   },
   {
-    "Nom du type": "Poison",
-    "Nombre de pokémon": 71,
-    "Nombre de pokémon avec le type slot 1": 35,
-    "Nombre de pokémon avec le type slot 2": 36,
-  },
-  {
     "Nom du type": "Feu",
     "Nombre de pokémon": 71,
     "Nombre de pokémon avec le type slot 1": 58,
     "Nombre de pokémon avec le type slot 2": 13,
+  },
+  {
+    "Nom du type": "Poison",
+    "Nombre de pokémon": 71,
+    "Nombre de pokémon avec le type slot 1": 35,
+    "Nombre de pokémon avec le type slot 2": 36,
   },
   {
     "Nom du type": "Sol",
