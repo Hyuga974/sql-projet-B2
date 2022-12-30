@@ -9,7 +9,7 @@ test("La 1er propriété doit s'appeler 'Nom du pokemon'", async () => {
 test("La 2ème propriété doit s'appeler 'Nombre capacité avec le même type'", async () => {
   let queryResults = await executeQuery("./data/pokemonDB.db", q13);
   expect(Object.keys(queryResults[0])[1]).toEqual(
-    "Nombre attaque avec le même type"
+    "Nombre capacité avec le même type"
   );
 });
 test("Les résultats sont corrects et dans le bonne ordre", async () => {
