@@ -14,13 +14,13 @@ test("La 3ème propriété doit s'appeler 'Meilleure puissance'", async () => {
   let queryResults = await executeQuery("./data/pokemonDB.db", q10);
   expect(Object.keys(queryResults[0])[2]).toEqual("Meilleure puissance");
 });
-test("La 4ème propriété doit s'appeler 'Pire Attaque'", async () => {
+test("La 4ème propriété doit s'appeler 'Pire attaque'", async () => {
   let queryResults = await executeQuery("./data/pokemonDB.db", q10);
-  expect(Object.keys(queryResults[0])[3]).toEqual("Pire Attaque");
+  expect(Object.keys(queryResults[0])[3]).toEqual("Pire attaque");
 });
-test("La 5ème propriété doit s'appeler 'Pire Puissance'", async () => {
+test("La 5ème propriété doit s'appeler 'Pire puissance'", async () => {
   let queryResults = await executeQuery("./data/pokemonDB.db", q10);
-  expect(Object.keys(queryResults[0])[4]).toEqual("Pire Puissance");
+  expect(Object.keys(queryResults[0])[4]).toEqual("Pire puissance");
 });
 test("Les résultats sont corrects et dans le bonne ordre", async () => {
   let queryResults = await executeQuery("./data/pokemonDB.db", q10);

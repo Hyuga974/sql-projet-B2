@@ -7784,7 +7784,7 @@ const q10Results = [
   },
   {
     Type: "Plante",
-    "Meilleure attaque": "Végé-attaque",
+    "Meilleure attaque": "Végé-Attaque",
     "Meilleure puissance": 150,
     "Pire attaque": "Vole-Vie",
     "Pire puissance": 20,
