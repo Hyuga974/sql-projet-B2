@@ -7714,128 +7714,128 @@ const q9Results = [
 const q10Results = [
   {
     Type: "Acier",
-    "Meilleure attaque": "Vœu Destructeur",
+    "Meilleure capacité": "Vœu Destructeur",
     "Meilleure puissance": 140,
-    "Pire attaque": "Pisto-Poing",
+    "Pire capacité": "Pisto-Poing",
     "Pire puissance": 40,
   },
   {
     Type: "Combat",
-    "Meilleure attaque": "Mitra-Poing",
+    "Meilleure capacité": "Mitra-Poing",
     "Meilleure puissance": 150,
-    "Pire attaque": "Triple Pied",
+    "Pire capacité": "Triple Pied",
     "Pire puissance": 10,
   },
   {
     Type: "Dragon",
-    "Meilleure attaque": "Laser Infinimax",
+    "Meilleure capacité": "Laser Infinimax",
     "Meilleure puissance": 160,
-    "Pire attaque": "Rafale Écailles",
+    "Pire capacité": "Rafale Écailles",
     "Pire puissance": 25,
   },
   {
     Type: "Eau",
-    "Meilleure attaque": "Hydroblast",
+    "Meilleure capacité": "Hydroblast",
     "Meilleure puissance": 150,
-    "Pire attaque": "Sheauriken",
+    "Pire capacité": "Sheauriken",
     "Pire puissance": 15,
   },
   {
     Type: "Electrik",
-    "Meilleure attaque": "Charge Foudre",
+    "Meilleure capacité": "Charge Foudre",
     "Meilleure puissance": 130,
-    "Pire attaque": "Frotte-Frimousse",
+    "Pire capacité": "Frotte-Frimousse",
     "Pire puissance": 20,
   },
   {
     Type: "Fée",
-    "Meilleure attaque": "Lumière du Néant",
+    "Meilleure capacité": "Lumière du Néant",
     "Meilleure puissance": 140,
-    "Pire attaque": "Voix Enjôleuse",
+    "Pire capacité": "Voix Enjôleuse",
     "Pire puissance": 40,
   },
   {
     Type: "Feu",
-    "Meilleure attaque": "Coup Victoire",
+    "Meilleure capacité": "Coup Victoire",
     "Meilleure puissance": 180,
-    "Pire attaque": "Danse Flammes",
+    "Pire capacité": "Danse Flammes",
     "Pire puissance": 35,
   },
   {
     Type: "Glace",
-    "Meilleure attaque": "Éclair Gelé",
+    "Meilleure capacité": "Éclair Gelé",
     "Meilleure puissance": 140,
-    "Pire attaque": "Triple Axel",
+    "Pire capacité": "Triple Axel",
     "Pire puissance": 20,
   },
   {
     Type: "Insecte",
-    "Meilleure attaque": "Mégacorne",
+    "Meilleure capacité": "Mégacorne",
     "Meilleure puissance": 120,
-    "Pire attaque": "Harcèlement",
+    "Pire capacité": "Harcèlement",
     "Pire puissance": 20,
   },
   {
     Type: "Normal",
-    "Meilleure attaque": "Explosion",
+    "Meilleure capacité": "Explosion",
     "Meilleure puissance": 250,
-    "Pire attaque": "Constriction",
+    "Pire capacité": "Constriction",
     "Pire puissance": 10,
   },
   {
     Type: "Plante",
-    "Meilleure attaque": "Végé-Attaque",
+    "Meilleure capacité": "Végé-Attaque",
     "Meilleure puissance": 150,
-    "Pire attaque": "Vole-Vie",
+    "Pire capacité": "Vole-Vie",
     "Pire puissance": 20,
   },
   {
     Type: "Poison",
-    "Meilleure attaque": "Détricanon",
+    "Meilleure capacité": "Détricanon",
     "Meilleure puissance": 120,
-    "Pire attaque": "Dard-Venin",
+    "Pire capacité": "Dard-Venin",
     "Pire puissance": 15,
   },
   {
     Type: "Psy",
-    "Meilleure attaque": "Laser Prisme",
+    "Meilleure capacité": "Laser Prisme",
     "Meilleure puissance": 160,
-    "Pire attaque": "Force Ajoutée",
+    "Pire capacité": "Force Ajoutée",
     "Pire puissance": 20,
   },
   {
     Type: "Roche",
-    "Meilleure attaque": "Roc-Boulet",
+    "Meilleure capacité": "Roc-Boulet",
     "Meilleure puissance": 150,
-    "Pire attaque": "Boule Roc",
+    "Pire capacité": "Boule Roc",
     "Pire puissance": 25,
   },
   {
     Type: "Sol",
-    "Meilleure attaque": "Lame Pangéenne",
+    "Meilleure capacité": "Lame Pangéenne",
     "Meilleure puissance": 120,
-    "Pire attaque": "Coud’Boue",
+    "Pire capacité": "Coud’Boue",
     "Pire puissance": 20,
   },
   {
     Type: "Spectre",
-    "Meilleure attaque": "Revenant",
+    "Meilleure capacité": "Revenant",
     "Meilleure puissance": 120,
-    "Pire attaque": "Léchouille",
+    "Pire capacité": "Léchouille",
     "Pire puissance": 30,
   },
   {
     Type: "Ténèbres",
-    "Meilleure attaque": "Furie Dimension",
+    "Meilleure capacité": "Furie Dimension",
     "Meilleure puissance": 100,
-    "Pire attaque": "Arrogance",
+    "Pire capacité": "Arrogance",
     "Pire puissance": 20,
   },
   {
     Type: "Vol",
-    "Meilleure attaque": "Piqué",
+    "Meilleure capacité": "Piqué",
     "Meilleure puissance": 140,
-    "Pire attaque": "Picpic",
+    "Pire capacité": "Picpic",
     "Pire puissance": 35,
   },
 ];
@@ -8053,43 +8053,43 @@ const q12Results = [
 const q13Results = [
   {
     "Nom du pokemon": "Grodoudou",
-    "Nombre attaque avec le même type": 68,
+    "Nombre capacité avec le même type": 68,
   },
   {
     "Nom du pokemon": "Girafarig",
-    "Nombre attaque avec le même type": 67,
+    "Nombre capacité avec le même type": 67,
   },
   {
     "Nom du pokemon": "Canarticho",
-    "Nombre attaque avec le même type": 66,
+    "Nombre capacité avec le même type": 66,
   },
   {
     "Nom du pokemon": "Rondoudou",
-    "Nombre attaque avec le même type": 65,
+    "Nombre capacité avec le même type": 65,
   },
   {
     "Nom du pokemon": "Leveinard",
-    "Nombre attaque avec le même type": 61,
+    "Nombre capacité avec le même type": 61,
   },
   {
     "Nom du pokemon": "Leuphorie",
-    "Nombre attaque avec le même type": 58,
+    "Nombre capacité avec le même type": 58,
   },
   {
     "Nom du pokemon": "Kangourex",
-    "Nombre attaque avec le même type": 57,
+    "Nombre capacité avec le même type": 57,
   },
   {
     "Nom du pokemon": "Ronflex",
-    "Nombre attaque avec le même type": 57,
+    "Nombre capacité avec le même type": 57,
   },
   {
     "Nom du pokemon": "Gouroutan",
-    "Nombre attaque avec le même type": 54,
+    "Nombre capacité avec le même type": 54,
   },
   {
     "Nom du pokemon": "Meloetta",
-    "Nombre attaque avec le même type": 54,
+    "Nombre capacité avec le même type": 54,
   },
 ];
 
@@ -8393,7 +8393,7 @@ const q16Results = [
     "Nombre possédant le talent": 3,
     "Type possédant le plus le talent": "Normal",
     "Pourcentage possession": "0.33%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "33.33%",
     "Pourcentage par rapport au talent le plus possédé": "6.98%",
   },
   {
@@ -8401,7 +8401,7 @@ const q16Results = [
     "Nombre possédant le talent": 25,
     "Type possédant le plus le talent": "Eau",
     "Pourcentage possession": "2.76%",
-    "Pourcentage possession caché": "2.76%",
+    "Pourcentage possession cachée": "36.0%",
     "Pourcentage par rapport au talent le plus possédé": "58.14%",
   },
   {
@@ -8409,7 +8409,7 @@ const q16Results = [
     "Nombre possédant le talent": 8,
     "Type possédant le plus le talent": "Electrik",
     "Pourcentage possession": "0.88%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "25.0%",
     "Pourcentage par rapport au talent le plus possédé": "18.6%",
   },
   {
@@ -8417,7 +8417,7 @@ const q16Results = [
     "Nombre possédant le talent": 15,
     "Type possédant le plus le talent": "Combat",
     "Pourcentage possession": "1.66%",
-    "Pourcentage possession caché": "1.66%",
+    "Pourcentage possession cachée": "86.67%",
     "Pourcentage par rapport au talent le plus possédé": "34.88%",
   },
   {
@@ -8425,7 +8425,7 @@ const q16Results = [
     "Nombre possédant le talent": 11,
     "Type possédant le plus le talent": "Eau",
     "Pourcentage possession": "1.22%",
-    "Pourcentage possession caché": "1.22%",
+    "Pourcentage possession cachée": "63.64%",
     "Pourcentage par rapport au talent le plus possédé": "25.58%",
   },
   {
@@ -8433,7 +8433,7 @@ const q16Results = [
     "Nombre possédant le talent": 20,
     "Type possédant le plus le talent": "Vol",
     "Pourcentage possession": "2.21%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "45.0%",
     "Pourcentage par rapport au talent le plus possédé": "46.51%",
   },
   {
@@ -8441,7 +8441,7 @@ const q16Results = [
     "Nombre possédant le talent": 3,
     "Type possédant le plus le talent": "Vol",
     "Pourcentage possession": "0.33%",
-    "Pourcentage possession caché": "0.33%",
+    "Pourcentage possession cachée": "100.0%",
     "Pourcentage par rapport au talent le plus possédé": "6.98%",
   },
   {
@@ -8449,7 +8449,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Dragon",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -8457,7 +8457,7 @@ const q16Results = [
     "Nombre possédant le talent": 5,
     "Type possédant le plus le talent": "Glace",
     "Pourcentage possession": "0.55%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "40.0%",
     "Pourcentage par rapport au talent le plus possédé": "11.63%",
   },
   {
@@ -8465,7 +8465,7 @@ const q16Results = [
     "Nombre possédant le talent": 12,
     "Type possédant le plus le talent": "Normal",
     "Pourcentage possession": "1.33%",
-    "Pourcentage possession caché": "1.33%",
+    "Pourcentage possession cachée": "100.0%",
     "Pourcentage par rapport au talent le plus possédé": "27.91%",
   },
   {
@@ -8473,7 +8473,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Acier",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -8481,7 +8481,7 @@ const q16Results = [
     "Nombre possédant le talent": 8,
     "Type possédant le plus le talent": "Spectre",
     "Pourcentage possession": "0.88%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "37.5%",
     "Pourcentage par rapport au talent le plus possédé": "18.6%",
   },
   {
@@ -8489,7 +8489,7 @@ const q16Results = [
     "Nombre possédant le talent": 15,
     "Type possédant le plus le talent": "Normal",
     "Pourcentage possession": "1.66%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "33.33%",
     "Pourcentage par rapport au talent le plus possédé": "34.88%",
   },
   {
@@ -8497,7 +8497,7 @@ const q16Results = [
     "Nombre possédant le talent": 10,
     "Type possédant le plus le talent": "Psy",
     "Pourcentage possession": "1.1%",
-    "Pourcentage possession caché": "1.1%",
+    "Pourcentage possession cachée": "20.0%",
     "Pourcentage par rapport au talent le plus possédé": "23.26%",
   },
   {
@@ -8505,7 +8505,7 @@ const q16Results = [
     "Nombre possédant le talent": 2,
     "Type possédant le plus le talent": "Eau",
     "Pourcentage possession": "0.22%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "4.65%",
   },
   {
@@ -8513,7 +8513,7 @@ const q16Results = [
     "Nombre possédant le talent": 3,
     "Type possédant le plus le talent": "Feu",
     "Pourcentage possession": "0.33%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "6.98%",
   },
   {
@@ -8521,7 +8521,7 @@ const q16Results = [
     "Nombre possédant le talent": 11,
     "Type possédant le plus le talent": "Roche",
     "Pourcentage possession": "1.22%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "18.18%",
     "Pourcentage par rapport au talent le plus possédé": "25.58%",
   },
   {
@@ -8529,7 +8529,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Acier",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0.11%",
+    "Pourcentage possession cachée": "100.0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -8537,7 +8537,7 @@ const q16Results = [
     "Nombre possédant le talent": 21,
     "Type possédant le plus le talent": "Roche",
     "Pourcentage possession": "2.32%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "71.43%",
     "Pourcentage par rapport au talent le plus possédé": "48.84%",
   },
   {
@@ -8545,7 +8545,7 @@ const q16Results = [
     "Nombre possédant le talent": 4,
     "Type possédant le plus le talent": "Fée",
     "Pourcentage possession": "0.44%",
-    "Pourcentage possession caché": "0.44%",
+    "Pourcentage possession cachée": "100.0%",
     "Pourcentage par rapport au talent le plus possédé": "9.3%",
   },
   {
@@ -8553,7 +8553,7 @@ const q16Results = [
     "Nombre possédant le talent": 34,
     "Type possédant le plus le talent": "Combat",
     "Pourcentage possession": "3.76%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "32.35%",
     "Pourcentage par rapport au talent le plus possédé": "79.07%",
   },
   {
@@ -8561,7 +8561,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Fée",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -8569,7 +8569,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Dragon",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -8577,7 +8577,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Ténèbres",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -8585,7 +8585,7 @@ const q16Results = [
     "Nombre possédant le talent": 9,
     "Type possédant le plus le talent": "Sol",
     "Pourcentage possession": "0.99%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "44.44%",
     "Pourcentage par rapport au talent le plus possédé": "20.93%",
   },
   {
@@ -8593,7 +8593,7 @@ const q16Results = [
     "Nombre possédant le talent": 5,
     "Type possédant le plus le talent": "Normal",
     "Pourcentage possession": "0.55%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "11.63%",
   },
   {
@@ -8601,7 +8601,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Eau",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -8609,7 +8609,7 @@ const q16Results = [
     "Nombre possédant le talent": 8,
     "Type possédant le plus le talent": "Fée",
     "Pourcentage possession": "0.88%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "12.5%",
     "Pourcentage par rapport au talent le plus possédé": "18.6%",
   },
   {
@@ -8617,7 +8617,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Electrik",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -8625,7 +8625,7 @@ const q16Results = [
     "Nombre possédant le talent": 24,
     "Type possédant le plus le talent": "Eau",
     "Pourcentage possession": "2.65%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "20.83%",
     "Pourcentage par rapport au talent le plus possédé": "55.81%",
   },
   {
@@ -8633,7 +8633,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Glace",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -8641,7 +8641,7 @@ const q16Results = [
     "Nombre possédant le talent": 8,
     "Type possédant le plus le talent": "Poison",
     "Pourcentage possession": "0.88%",
-    "Pourcentage possession caché": "0.88%",
+    "Pourcentage possession cachée": "50.0%",
     "Pourcentage par rapport au talent le plus possédé": "18.6%",
   },
   {
@@ -8649,7 +8649,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Acier",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0.11%",
+    "Pourcentage possession cachée": "100.0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -8657,7 +8657,7 @@ const q16Results = [
     "Nombre possédant le talent": 11,
     "Type possédant le plus le talent": "Acier",
     "Pourcentage possession": "1.22%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "25.58%",
   },
   {
@@ -8665,7 +8665,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Roche",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -8673,7 +8673,7 @@ const q16Results = [
     "Nombre possédant le talent": 4,
     "Type possédant le plus le talent": "Normal",
     "Pourcentage possession": "0.44%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "9.3%",
   },
   {
@@ -8681,7 +8681,7 @@ const q16Results = [
     "Nombre possédant le talent": 26,
     "Type possédant le plus le talent": "Feu",
     "Pourcentage possession": "2.87%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "7.69%",
     "Pourcentage par rapport au talent le plus possédé": "60.47%",
   },
   {
@@ -8689,7 +8689,7 @@ const q16Results = [
     "Nombre possédant le talent": 16,
     "Type possédant le plus le talent": "Combat",
     "Pourcentage possession": "1.77%",
-    "Pourcentage possession caché": "1.77%",
+    "Pourcentage possession cachée": "50.0%",
     "Pourcentage par rapport au talent le plus possédé": "37.21%",
   },
   {
@@ -8697,7 +8697,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Glace",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -8705,7 +8705,7 @@ const q16Results = [
     "Nombre possédant le talent": 5,
     "Type possédant le plus le talent": "Fée",
     "Pourcentage possession": "0.55%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "11.63%",
   },
   {
@@ -8713,7 +8713,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Roche",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -8721,7 +8721,7 @@ const q16Results = [
     "Nombre possédant le talent": 9,
     "Type possédant le plus le talent": "Vol",
     "Pourcentage possession": "0.99%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "33.33%",
     "Pourcentage par rapport au talent le plus possédé": "20.93%",
   },
   {
@@ -8729,7 +8729,7 @@ const q16Results = [
     "Nombre possédant le talent": 4,
     "Type possédant le plus le talent": "Glace",
     "Pourcentage possession": "0.44%",
-    "Pourcentage possession caché": "0.44%",
+    "Pourcentage possession cachée": "50.0%",
     "Pourcentage par rapport au talent le plus possédé": "9.3%",
   },
   {
@@ -8737,7 +8737,7 @@ const q16Results = [
     "Nombre possédant le talent": 4,
     "Type possédant le plus le talent": "Insecte",
     "Pourcentage possession": "0.44%",
-    "Pourcentage possession caché": "0.44%",
+    "Pourcentage possession cachée": "25.0%",
     "Pourcentage par rapport au talent le plus possédé": "9.3%",
   },
   {
@@ -8745,7 +8745,7 @@ const q16Results = [
     "Nombre possédant le talent": 35,
     "Type possédant le plus le talent": "Plante",
     "Pourcentage possession": "3.87%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "17.14%",
     "Pourcentage par rapport au talent le plus possédé": "81.4%",
   },
   {
@@ -8753,7 +8753,7 @@ const q16Results = [
     "Nombre possédant le talent": 7,
     "Type possédant le plus le talent": "Normal",
     "Pourcentage possession": "0.77%",
-    "Pourcentage possession caché": "0.77%",
+    "Pourcentage possession cachée": "71.43%",
     "Pourcentage par rapport au talent le plus possédé": "16.28%",
   },
   {
@@ -8761,7 +8761,7 @@ const q16Results = [
     "Nombre possédant le talent": 5,
     "Type possédant le plus le talent": "Fée",
     "Pourcentage possession": "0.55%",
-    "Pourcentage possession caché": "0.55%",
+    "Pourcentage possession cachée": "40.0%",
     "Pourcentage par rapport au talent le plus possédé": "11.63%",
   },
   {
@@ -8769,7 +8769,7 @@ const q16Results = [
     "Nombre possédant le talent": 9,
     "Type possédant le plus le talent": "Combat",
     "Pourcentage possession": "0.99%",
-    "Pourcentage possession caché": "0.99%",
+    "Pourcentage possession cachée": "66.67%",
     "Pourcentage par rapport au talent le plus possédé": "20.93%",
   },
   {
@@ -8777,7 +8777,7 @@ const q16Results = [
     "Nombre possédant le talent": 10,
     "Type possédant le plus le talent": "Plante",
     "Pourcentage possession": "1.1%",
-    "Pourcentage possession caché": "1.1%",
+    "Pourcentage possession cachée": "80.0%",
     "Pourcentage par rapport au talent le plus possédé": "23.26%",
   },
   {
@@ -8785,7 +8785,7 @@ const q16Results = [
     "Nombre possédant le talent": 24,
     "Type possédant le plus le talent": "Eau",
     "Pourcentage possession": "2.65%",
-    "Pourcentage possession caché": "2.65%",
+    "Pourcentage possession cachée": "29.17%",
     "Pourcentage par rapport au talent le plus possédé": "55.81%",
   },
   {
@@ -8793,7 +8793,7 @@ const q16Results = [
     "Nombre possédant le talent": 20,
     "Type possédant le plus le talent": "Feu",
     "Pourcentage possession": "2.21%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "30.0%",
     "Pourcentage par rapport au talent le plus possédé": "46.51%",
   },
   {
@@ -8801,7 +8801,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Eau",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -8809,7 +8809,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Spectre",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0.11%",
+    "Pourcentage possession cachée": "100.0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -8817,7 +8817,7 @@ const q16Results = [
     "Nombre possédant le talent": 16,
     "Type possédant le plus le talent": "Glace",
     "Pourcentage possession": "1.77%",
-    "Pourcentage possession caché": "1.77%",
+    "Pourcentage possession cachée": "31.25%",
     "Pourcentage par rapport au talent le plus possédé": "37.21%",
   },
   {
@@ -8825,7 +8825,7 @@ const q16Results = [
     "Nombre possédant le talent": 11,
     "Type possédant le plus le talent": "Spectre",
     "Pourcentage possession": "1.22%",
-    "Pourcentage possession caché": "1.22%",
+    "Pourcentage possession cachée": "72.73%",
     "Pourcentage par rapport au talent le plus possédé": "25.58%",
   },
   {
@@ -8833,7 +8833,7 @@ const q16Results = [
     "Nombre possédant le talent": 16,
     "Type possédant le plus le talent": "Acier",
     "Pourcentage possession": "1.77%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "18.75%",
     "Pourcentage par rapport au talent le plus possédé": "37.21%",
   },
   {
@@ -8841,7 +8841,7 @@ const q16Results = [
     "Nombre possédant le talent": 2,
     "Type possédant le plus le talent": "Feu",
     "Pourcentage possession": "0.22%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "4.65%",
   },
   {
@@ -8849,7 +8849,7 @@ const q16Results = [
     "Nombre possédant le talent": 3,
     "Type possédant le plus le talent": "Eau",
     "Pourcentage possession": "0.33%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "33.33%",
     "Pourcentage par rapport au talent le plus possédé": "6.98%",
   },
   {
@@ -8857,7 +8857,7 @@ const q16Results = [
     "Nombre possédant le talent": 23,
     "Type possédant le plus le talent": "Combat",
     "Pourcentage possession": "2.54%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "17.39%",
     "Pourcentage par rapport au talent le plus possédé": "53.49%",
   },
   {
@@ -8865,7 +8865,7 @@ const q16Results = [
     "Nombre possédant le talent": 2,
     "Type possédant le plus le talent": "Eau",
     "Pourcentage possession": "0.22%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "4.65%",
   },
   {
@@ -8873,7 +8873,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Eau",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -8881,7 +8881,7 @@ const q16Results = [
     "Nombre possédant le talent": 4,
     "Type possédant le plus le talent": "Plante",
     "Pourcentage possession": "0.44%",
-    "Pourcentage possession caché": "0.44%",
+    "Pourcentage possession cachée": "75.0%",
     "Pourcentage par rapport au talent le plus possédé": "9.3%",
   },
   {
@@ -8889,7 +8889,7 @@ const q16Results = [
     "Nombre possédant le talent": 2,
     "Type possédant le plus le talent": "Psy",
     "Pourcentage possession": "0.22%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "50.0%",
     "Pourcentage par rapport au talent le plus possédé": "4.65%",
   },
   {
@@ -8897,7 +8897,7 @@ const q16Results = [
     "Nombre possédant le talent": 2,
     "Type possédant le plus le talent": "Electrik",
     "Pourcentage possession": "0.22%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "50.0%",
     "Pourcentage par rapport au talent le plus possédé": "4.65%",
   },
   {
@@ -8905,7 +8905,7 @@ const q16Results = [
     "Nombre possédant le talent": 13,
     "Type possédant le plus le talent": "Eau",
     "Pourcentage possession": "1.44%",
-    "Pourcentage possession caché": "1.44%",
+    "Pourcentage possession cachée": "76.92%",
     "Pourcentage par rapport au talent le plus possédé": "30.23%",
   },
   {
@@ -8913,7 +8913,7 @@ const q16Results = [
     "Nombre possédant le talent": 9,
     "Type possédant le plus le talent": "Combat",
     "Pourcentage possession": "0.99%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "55.56%",
     "Pourcentage par rapport au talent le plus possédé": "20.93%",
   },
   {
@@ -8921,7 +8921,7 @@ const q16Results = [
     "Nombre possédant le talent": 11,
     "Type possédant le plus le talent": "Fée",
     "Pourcentage possession": "1.22%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "27.27%",
     "Pourcentage par rapport au talent le plus possédé": "25.58%",
   },
   {
@@ -8929,7 +8929,7 @@ const q16Results = [
     "Nombre possédant le talent": 14,
     "Type possédant le plus le talent": "Vol",
     "Pourcentage possession": "1.55%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "42.86%",
     "Pourcentage par rapport au talent le plus possédé": "32.56%",
   },
   {
@@ -8937,7 +8937,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Feu",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -8945,7 +8945,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Dragon",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -8953,7 +8953,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Plante",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -8961,7 +8961,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Dragon",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -8969,7 +8969,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Normal",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -8977,7 +8977,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Electrik",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -8985,7 +8985,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Acier",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -8993,7 +8993,7 @@ const q16Results = [
     "Nombre possédant le talent": 2,
     "Type possédant le plus le talent": "Roche",
     "Pourcentage possession": "0.22%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "4.65%",
   },
   {
@@ -9001,7 +9001,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Eau",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -9009,7 +9009,7 @@ const q16Results = [
     "Nombre possédant le talent": 14,
     "Type possédant le plus le talent": "Ténèbres",
     "Pourcentage possession": "1.55%",
-    "Pourcentage possession caché": "1.55%",
+    "Pourcentage possession cachée": "50.0%",
     "Pourcentage par rapport au talent le plus possédé": "32.56%",
   },
   {
@@ -9017,7 +9017,7 @@ const q16Results = [
     "Nombre possédant le talent": 2,
     "Type possédant le plus le talent": "Plante",
     "Pourcentage possession": "0.22%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "4.65%",
   },
   {
@@ -9025,7 +9025,7 @@ const q16Results = [
     "Nombre possédant le talent": 2,
     "Type possédant le plus le talent": "Sol",
     "Pourcentage possession": "0.22%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "4.65%",
   },
   {
@@ -9033,7 +9033,7 @@ const q16Results = [
     "Nombre possédant le talent": 26,
     "Type possédant le plus le talent": "Plante",
     "Pourcentage possession": "2.87%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "7.69%",
     "Pourcentage par rapport au talent le plus possédé": "60.47%",
   },
   {
@@ -9041,7 +9041,7 @@ const q16Results = [
     "Nombre possédant le talent": 20,
     "Type possédant le plus le talent": "Insecte",
     "Pourcentage possession": "2.21%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "75.0%",
     "Pourcentage par rapport au talent le plus possédé": "46.51%",
   },
   {
@@ -9049,7 +9049,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Eau",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -9057,7 +9057,7 @@ const q16Results = [
     "Nombre possédant le talent": 13,
     "Type possédant le plus le talent": "Combat",
     "Pourcentage possession": "1.44%",
-    "Pourcentage possession caché": "1.44%",
+    "Pourcentage possession cachée": "53.85%",
     "Pourcentage par rapport au talent le plus possédé": "30.23%",
   },
   {
@@ -9065,7 +9065,7 @@ const q16Results = [
     "Nombre possédant le talent": 29,
     "Type possédant le plus le talent": "Insecte",
     "Pourcentage possession": "3.2%",
-    "Pourcentage possession caché": "3.2%",
+    "Pourcentage possession cachée": "13.79%",
     "Pourcentage par rapport au talent le plus possédé": "67.44%",
   },
   {
@@ -9073,7 +9073,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Plante",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -9081,7 +9081,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Eau",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -9089,7 +9089,7 @@ const q16Results = [
     "Nombre possédant le talent": 2,
     "Type possédant le plus le talent": "Sol",
     "Pourcentage possession": "0.22%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "4.65%",
   },
   {
@@ -9097,7 +9097,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Fée",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -9105,7 +9105,7 @@ const q16Results = [
     "Nombre possédant le talent": 16,
     "Type possédant le plus le talent": "Ténèbres",
     "Pourcentage possession": "1.77%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "50.0%",
     "Pourcentage par rapport au talent le plus possédé": "37.21%",
   },
   {
@@ -9113,7 +9113,7 @@ const q16Results = [
     "Nombre possédant le talent": 38,
     "Type possédant le plus le talent": "Roche",
     "Pourcentage possession": "4.2%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "18.42%",
     "Pourcentage par rapport au talent le plus possédé": "88.37%",
   },
   {
@@ -9121,7 +9121,7 @@ const q16Results = [
     "Nombre possédant le talent": 20,
     "Type possédant le plus le talent": "Plante",
     "Pourcentage possession": "2.21%",
-    "Pourcentage possession caché": "2.21%",
+    "Pourcentage possession cachée": "35.0%",
     "Pourcentage par rapport au talent le plus possédé": "46.51%",
   },
   {
@@ -9129,7 +9129,7 @@ const q16Results = [
     "Nombre possédant le talent": 4,
     "Type possédant le plus le talent": "Normal",
     "Pourcentage possession": "0.44%",
-    "Pourcentage possession caché": "0.44%",
+    "Pourcentage possession cachée": "50.0%",
     "Pourcentage par rapport au talent le plus possédé": "9.3%",
   },
   {
@@ -9137,7 +9137,7 @@ const q16Results = [
     "Nombre possédant le talent": 2,
     "Type possédant le plus le talent": "Fée",
     "Pourcentage possession": "0.22%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "4.65%",
   },
   {
@@ -9145,7 +9145,7 @@ const q16Results = [
     "Nombre possédant le talent": 4,
     "Type possédant le plus le talent": "Fée",
     "Pourcentage possession": "0.44%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "9.3%",
   },
   {
@@ -9153,7 +9153,7 @@ const q16Results = [
     "Nombre possédant le talent": 2,
     "Type possédant le plus le talent": "Combat",
     "Pourcentage possession": "0.22%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "4.65%",
   },
   {
@@ -9161,7 +9161,7 @@ const q16Results = [
     "Nombre possédant le talent": 14,
     "Type possédant le plus le talent": "Sol",
     "Pourcentage possession": "1.55%",
-    "Pourcentage possession caché": "1.55%",
+    "Pourcentage possession cachée": "78.57%",
     "Pourcentage par rapport au talent le plus possédé": "32.56%",
   },
   {
@@ -9169,7 +9169,7 @@ const q16Results = [
     "Nombre possédant le talent": 8,
     "Type possédant le plus le talent": "Feu",
     "Pourcentage possession": "0.88%",
-    "Pourcentage possession caché": "0.88%",
+    "Pourcentage possession cachée": "62.5%",
     "Pourcentage par rapport au talent le plus possédé": "18.6%",
   },
   {
@@ -9177,7 +9177,7 @@ const q16Results = [
     "Nombre possédant le talent": 25,
     "Type possédant le plus le talent": "Spectre",
     "Pourcentage possession": "2.76%",
-    "Pourcentage possession caché": "2.76%",
+    "Pourcentage possession cachée": "32.0%",
     "Pourcentage par rapport au talent le plus possédé": "58.14%",
   },
   {
@@ -9185,7 +9185,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Spectre",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -9193,7 +9193,7 @@ const q16Results = [
     "Nombre possédant le talent": 27,
     "Type possédant le plus le talent": "Normal",
     "Pourcentage possession": "2.98%",
-    "Pourcentage possession caché": "2.98%",
+    "Pourcentage possession cachée": "29.63%",
     "Pourcentage par rapport au talent le plus possédé": "62.79%",
   },
   {
@@ -9201,7 +9201,7 @@ const q16Results = [
     "Nombre possédant le talent": 10,
     "Type possédant le plus le talent": "Psy",
     "Pourcentage possession": "1.1%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "30.0%",
     "Pourcentage par rapport au talent le plus possédé": "23.26%",
   },
   {
@@ -9209,7 +9209,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Insecte",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -9217,7 +9217,7 @@ const q16Results = [
     "Nombre possédant le talent": 8,
     "Type possédant le plus le talent": "Fée",
     "Pourcentage possession": "0.88%",
-    "Pourcentage possession caché": "0.88%",
+    "Pourcentage possession cachée": "100.0%",
     "Pourcentage par rapport au talent le plus possédé": "18.6%",
   },
   {
@@ -9225,7 +9225,7 @@ const q16Results = [
     "Nombre possédant le talent": 2,
     "Type possédant le plus le talent": "Poison",
     "Pourcentage possession": "0.22%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "4.65%",
   },
   {
@@ -9233,7 +9233,7 @@ const q16Results = [
     "Nombre possédant le talent": 43,
     "Type possédant le plus le talent": "Eau",
     "Pourcentage possession": "4.75%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "27.91%",
     "Pourcentage par rapport au talent le plus possédé": "100.0%",
   },
   {
@@ -9241,7 +9241,7 @@ const q16Results = [
     "Nombre possédant le talent": 24,
     "Type possédant le plus le talent": "Plante",
     "Pourcentage possession": "2.65%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "45.83%",
     "Pourcentage par rapport au talent le plus possédé": "55.81%",
   },
   {
@@ -9249,7 +9249,7 @@ const q16Results = [
     "Nombre possédant le talent": 8,
     "Type possédant le plus le talent": "Poison",
     "Pourcentage possession": "0.88%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "18.6%",
   },
   {
@@ -9257,7 +9257,7 @@ const q16Results = [
     "Nombre possédant le talent": 9,
     "Type possédant le plus le talent": "Fée",
     "Pourcentage possession": "0.99%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "55.56%",
     "Pourcentage par rapport au talent le plus possédé": "20.93%",
   },
   {
@@ -9265,7 +9265,7 @@ const q16Results = [
     "Nombre possédant le talent": 3,
     "Type possédant le plus le talent": "Eau",
     "Pourcentage possession": "0.33%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "6.98%",
   },
   {
@@ -9273,7 +9273,7 @@ const q16Results = [
     "Nombre possédant le talent": 8,
     "Type possédant le plus le talent": "Acier",
     "Pourcentage possession": "0.88%",
-    "Pourcentage possession caché": "0.88%",
+    "Pourcentage possession cachée": "87.5%",
     "Pourcentage par rapport au talent le plus possédé": "18.6%",
   },
   {
@@ -9281,7 +9281,7 @@ const q16Results = [
     "Nombre possédant le talent": 18,
     "Type possédant le plus le talent": "Normal",
     "Pourcentage possession": "1.99%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "50.0%",
     "Pourcentage par rapport au talent le plus possédé": "41.86%",
   },
   {
@@ -9289,7 +9289,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Normal",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -9297,7 +9297,7 @@ const q16Results = [
     "Nombre possédant le talent": 3,
     "Type possédant le plus le talent": "Eau",
     "Pourcentage possession": "0.33%",
-    "Pourcentage possession caché": "0.33%",
+    "Pourcentage possession cachée": "100.0%",
     "Pourcentage par rapport au talent le plus possédé": "6.98%",
   },
   {
@@ -9305,7 +9305,7 @@ const q16Results = [
     "Nombre possédant le talent": 22,
     "Type possédant le plus le talent": "Eau",
     "Pourcentage possession": "2.43%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "40.91%",
     "Pourcentage par rapport au talent le plus possédé": "51.16%",
   },
   {
@@ -9313,7 +9313,7 @@ const q16Results = [
     "Nombre possédant le talent": 11,
     "Type possédant le plus le talent": "Eau",
     "Pourcentage possession": "1.22%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "25.58%",
   },
   {
@@ -9321,7 +9321,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Normal",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -9329,7 +9329,7 @@ const q16Results = [
     "Nombre possédant le talent": 11,
     "Type possédant le plus le talent": "Eau",
     "Pourcentage possession": "1.22%",
-    "Pourcentage possession caché": "1.22%",
+    "Pourcentage possession cachée": "63.64%",
     "Pourcentage par rapport au talent le plus possédé": "25.58%",
   },
   {
@@ -9337,7 +9337,7 @@ const q16Results = [
     "Nombre possédant le talent": 3,
     "Type possédant le plus le talent": "Acier",
     "Pourcentage possession": "0.33%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "6.98%",
   },
   {
@@ -9345,7 +9345,7 @@ const q16Results = [
     "Nombre possédant le talent": 2,
     "Type possédant le plus le talent": "Ténèbres",
     "Pourcentage possession": "0.22%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "4.65%",
   },
   {
@@ -9353,7 +9353,7 @@ const q16Results = [
     "Nombre possédant le talent": 14,
     "Type possédant le plus le talent": "Combat",
     "Pourcentage possession": "1.55%",
-    "Pourcentage possession caché": "1.55%",
+    "Pourcentage possession cachée": "57.14%",
     "Pourcentage par rapport au talent le plus possédé": "32.56%",
   },
   {
@@ -9361,7 +9361,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Normal",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0.11%",
+    "Pourcentage possession cachée": "100.0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -9369,7 +9369,7 @@ const q16Results = [
     "Nombre possédant le talent": 13,
     "Type possédant le plus le talent": "Ténèbres",
     "Pourcentage possession": "1.44%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "61.54%",
     "Pourcentage par rapport au talent le plus possédé": "30.23%",
   },
   {
@@ -9377,7 +9377,7 @@ const q16Results = [
     "Nombre possédant le talent": 9,
     "Type possédant le plus le talent": "Eau",
     "Pourcentage possession": "0.99%",
-    "Pourcentage possession caché": "0.99%",
+    "Pourcentage possession cachée": "44.44%",
     "Pourcentage par rapport au talent le plus possédé": "20.93%",
   },
   {
@@ -9385,7 +9385,7 @@ const q16Results = [
     "Nombre possédant le talent": 23,
     "Type possédant le plus le talent": "Vol",
     "Pourcentage possession": "2.54%",
-    "Pourcentage possession caché": "2.54%",
+    "Pourcentage possession cachée": "60.87%",
     "Pourcentage par rapport au talent le plus possédé": "53.49%",
   },
   {
@@ -9393,7 +9393,7 @@ const q16Results = [
     "Nombre possédant le talent": 13,
     "Type possédant le plus le talent": "Vol",
     "Pourcentage possession": "1.44%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "23.08%",
     "Pourcentage par rapport au talent le plus possédé": "30.23%",
   },
   {
@@ -9401,7 +9401,7 @@ const q16Results = [
     "Nombre possédant le talent": 32,
     "Type possédant le plus le talent": "Ténèbres",
     "Pourcentage possession": "3.54%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "21.88%",
     "Pourcentage par rapport au talent le plus possédé": "74.42%",
   },
   {
@@ -9409,7 +9409,7 @@ const q16Results = [
     "Nombre possédant le talent": 22,
     "Type possédant le plus le talent": "Eau",
     "Pourcentage possession": "2.43%",
-    "Pourcentage possession caché": "2.43%",
+    "Pourcentage possession cachée": "27.27%",
     "Pourcentage par rapport au talent le plus possédé": "51.16%",
   },
   {
@@ -9417,7 +9417,7 @@ const q16Results = [
     "Nombre possédant le talent": 14,
     "Type possédant le plus le talent": "Normal",
     "Pourcentage possession": "1.55%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "14.29%",
     "Pourcentage par rapport au talent le plus possédé": "32.56%",
   },
   {
@@ -9425,7 +9425,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Fée",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -9433,7 +9433,7 @@ const q16Results = [
     "Nombre possédant le talent": 7,
     "Type possédant le plus le talent": "Eau",
     "Pourcentage possession": "0.77%",
-    "Pourcentage possession caché": "0.77%",
+    "Pourcentage possession cachée": "42.86%",
     "Pourcentage par rapport au talent le plus possédé": "16.28%",
   },
   {
@@ -9441,7 +9441,7 @@ const q16Results = [
     "Nombre possédant le talent": 9,
     "Type possédant le plus le talent": "Insecte",
     "Pourcentage possession": "0.99%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "55.56%",
     "Pourcentage par rapport au talent le plus possédé": "20.93%",
   },
   {
@@ -9449,7 +9449,7 @@ const q16Results = [
     "Nombre possédant le talent": 3,
     "Type possédant le plus le talent": "Feu",
     "Pourcentage possession": "0.33%",
-    "Pourcentage possession caché": "0.33%",
+    "Pourcentage possession cachée": "100.0%",
     "Pourcentage par rapport au talent le plus possédé": "6.98%",
   },
   {
@@ -9457,7 +9457,7 @@ const q16Results = [
     "Nombre possédant le talent": 6,
     "Type possédant le plus le talent": "Acier",
     "Pourcentage possession": "0.66%",
-    "Pourcentage possession caché": "0.66%",
+    "Pourcentage possession cachée": "83.33%",
     "Pourcentage par rapport au talent le plus possédé": "13.95%",
   },
   {
@@ -9465,7 +9465,7 @@ const q16Results = [
     "Nombre possédant le talent": 3,
     "Type possédant le plus le talent": "Plante",
     "Pourcentage possession": "0.33%",
-    "Pourcentage possession caché": "0.33%",
+    "Pourcentage possession cachée": "100.0%",
     "Pourcentage par rapport au talent le plus possédé": "6.98%",
   },
   {
@@ -9473,7 +9473,7 @@ const q16Results = [
     "Nombre possédant le talent": 8,
     "Type possédant le plus le talent": "Eau",
     "Pourcentage possession": "0.88%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "18.6%",
   },
   {
@@ -9481,7 +9481,7 @@ const q16Results = [
     "Nombre possédant le talent": 7,
     "Type possédant le plus le talent": "Eau",
     "Pourcentage possession": "0.77%",
-    "Pourcentage possession caché": "0.77%",
+    "Pourcentage possession cachée": "100.0%",
     "Pourcentage par rapport au talent le plus possédé": "16.28%",
   },
   {
@@ -9489,7 +9489,7 @@ const q16Results = [
     "Nombre possédant le talent": 32,
     "Type possédant le plus le talent": "Psy",
     "Pourcentage possession": "3.54%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "74.42%",
   },
   {
@@ -9497,7 +9497,7 @@ const q16Results = [
     "Nombre possédant le talent": 5,
     "Type possédant le plus le talent": "Feu",
     "Pourcentage possession": "0.55%",
-    "Pourcentage possession caché": "0.55%",
+    "Pourcentage possession cachée": "80.0%",
     "Pourcentage par rapport au talent le plus possédé": "11.63%",
   },
   {
@@ -9505,7 +9505,7 @@ const q16Results = [
     "Nombre possédant le talent": 6,
     "Type possédant le plus le talent": "Acier",
     "Pourcentage possession": "0.66%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "13.95%",
   },
   {
@@ -9513,7 +9513,7 @@ const q16Results = [
     "Nombre possédant le talent": 10,
     "Type possédant le plus le talent": "Normal",
     "Pourcentage possession": "1.1%",
-    "Pourcentage possession caché": "1.1%",
+    "Pourcentage possession cachée": "20.0%",
     "Pourcentage par rapport au talent le plus possédé": "23.26%",
   },
   {
@@ -9521,7 +9521,7 @@ const q16Results = [
     "Nombre possédant le talent": 5,
     "Type possédant le plus le talent": "Psy",
     "Pourcentage possession": "0.55%",
-    "Pourcentage possession caché": "0.55%",
+    "Pourcentage possession cachée": "60.0%",
     "Pourcentage par rapport au talent le plus possédé": "11.63%",
   },
   {
@@ -9529,7 +9529,7 @@ const q16Results = [
     "Nombre possédant le talent": 15,
     "Type possédant le plus le talent": "Vol",
     "Pourcentage possession": "1.66%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "13.33%",
     "Pourcentage par rapport au talent le plus possédé": "34.88%",
   },
   {
@@ -9537,7 +9537,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Ténèbres",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -9545,7 +9545,7 @@ const q16Results = [
     "Nombre possédant le talent": 6,
     "Type possédant le plus le talent": "Psy",
     "Pourcentage possession": "0.66%",
-    "Pourcentage possession caché": "0.66%",
+    "Pourcentage possession cachée": "100.0%",
     "Pourcentage par rapport au talent le plus possédé": "13.95%",
   },
   {
@@ -9553,7 +9553,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Feu",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0.11%",
+    "Pourcentage possession cachée": "100.0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -9561,7 +9561,7 @@ const q16Results = [
     "Nombre possédant le talent": 6,
     "Type possédant le plus le talent": "Acier",
     "Pourcentage possession": "0.66%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "33.33%",
     "Pourcentage par rapport au talent le plus possédé": "13.95%",
   },
   {
@@ -9569,7 +9569,7 @@ const q16Results = [
     "Nombre possédant le talent": 18,
     "Type possédant le plus le talent": "Eau",
     "Pourcentage possession": "1.99%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "55.56%",
     "Pourcentage par rapport au talent le plus possédé": "41.86%",
   },
   {
@@ -9577,7 +9577,7 @@ const q16Results = [
     "Nombre possédant le talent": 2,
     "Type possédant le plus le talent": "Spectre",
     "Pourcentage possession": "0.22%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "4.65%",
   },
   {
@@ -9585,7 +9585,7 @@ const q16Results = [
     "Nombre possédant le talent": 4,
     "Type possédant le plus le talent": "Electrik",
     "Pourcentage possession": "0.44%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "25.0%",
     "Pourcentage par rapport au talent le plus possédé": "9.3%",
   },
   {
@@ -9593,7 +9593,7 @@ const q16Results = [
     "Nombre possédant le talent": 18,
     "Type possédant le plus le talent": "Insecte",
     "Pourcentage possession": "1.99%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "41.86%",
   },
   {
@@ -9601,7 +9601,7 @@ const q16Results = [
     "Nombre possédant le talent": 9,
     "Type possédant le plus le talent": "Normal",
     "Pourcentage possession": "0.99%",
-    "Pourcentage possession caché": "0.99%",
+    "Pourcentage possession cachée": "44.44%",
     "Pourcentage par rapport au talent le plus possédé": "20.93%",
   },
   {
@@ -9609,7 +9609,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Normal",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -9617,7 +9617,7 @@ const q16Results = [
     "Nombre possédant le talent": 2,
     "Type possédant le plus le talent": "Vol",
     "Pourcentage possession": "0.22%",
-    "Pourcentage possession caché": "0.22%",
+    "Pourcentage possession cachée": "100.0%",
     "Pourcentage par rapport au talent le plus possédé": "4.65%",
   },
   {
@@ -9625,7 +9625,7 @@ const q16Results = [
     "Nombre possédant le talent": 16,
     "Type possédant le plus le talent": "Plante",
     "Pourcentage possession": "1.77%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "6.25%",
     "Pourcentage par rapport au talent le plus possédé": "37.21%",
   },
   {
@@ -9633,7 +9633,7 @@ const q16Results = [
     "Nombre possédant le talent": 2,
     "Type possédant le plus le talent": "Eau",
     "Pourcentage possession": "0.22%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "4.65%",
   },
   {
@@ -9641,7 +9641,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Acier",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -9649,7 +9649,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Normal",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -9657,7 +9657,7 @@ const q16Results = [
     "Nombre possédant le talent": 3,
     "Type possédant le plus le talent": "Dragon",
     "Pourcentage possession": "0.33%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "6.98%",
   },
   {
@@ -9665,7 +9665,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Acier",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0.11%",
+    "Pourcentage possession cachée": "100.0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -9673,7 +9673,7 @@ const q16Results = [
     "Nombre possédant le talent": 2,
     "Type possédant le plus le talent": "Normal",
     "Pourcentage possession": "0.22%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "4.65%",
   },
   {
@@ -9681,7 +9681,7 @@ const q16Results = [
     "Nombre possédant le talent": 17,
     "Type possédant le plus le talent": "Electrik",
     "Pourcentage possession": "1.88%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "35.29%",
     "Pourcentage par rapport au talent le plus possédé": "39.53%",
   },
   {
@@ -9689,7 +9689,7 @@ const q16Results = [
     "Nombre possédant le talent": 10,
     "Type possédant le plus le talent": "Dragon",
     "Pourcentage possession": "1.1%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "60.0%",
     "Pourcentage par rapport au talent le plus possédé": "23.26%",
   },
   {
@@ -9697,7 +9697,7 @@ const q16Results = [
     "Nombre possédant le talent": 6,
     "Type possédant le plus le talent": "Dragon",
     "Pourcentage possession": "0.66%",
-    "Pourcentage possession caché": "0.66%",
+    "Pourcentage possession cachée": "50.0%",
     "Pourcentage par rapport au talent le plus possédé": "13.95%",
   },
   {
@@ -9705,7 +9705,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Fée",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0.11%",
+    "Pourcentage possession cachée": "100.0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -9713,7 +9713,7 @@ const q16Results = [
     "Nombre possédant le talent": 2,
     "Type possédant le plus le talent": "Glace",
     "Pourcentage possession": "0.22%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "4.65%",
   },
   {
@@ -9721,7 +9721,7 @@ const q16Results = [
     "Nombre possédant le talent": 5,
     "Type possédant le plus le talent": "Normal",
     "Pourcentage possession": "0.55%",
-    "Pourcentage possession caché": "0.55%",
+    "Pourcentage possession cachée": "80.0%",
     "Pourcentage par rapport au talent le plus possédé": "11.63%",
   },
   {
@@ -9729,7 +9729,7 @@ const q16Results = [
     "Nombre possédant le talent": 7,
     "Type possédant le plus le talent": "Combat",
     "Pourcentage possession": "0.77%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "14.29%",
     "Pourcentage par rapport au talent le plus possédé": "16.28%",
   },
   {
@@ -9737,7 +9737,7 @@ const q16Results = [
     "Nombre possédant le talent": 14,
     "Type possédant le plus le talent": "Eau",
     "Pourcentage possession": "1.55%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "85.71%",
     "Pourcentage par rapport au talent le plus possédé": "32.56%",
   },
   {
@@ -9745,7 +9745,7 @@ const q16Results = [
     "Nombre possédant le talent": 10,
     "Type possédant le plus le talent": "Ténèbres",
     "Pourcentage possession": "1.1%",
-    "Pourcentage possession caché": "1.1%",
+    "Pourcentage possession cachée": "100.0%",
     "Pourcentage par rapport au talent le plus possédé": "23.26%",
   },
   {
@@ -9753,7 +9753,7 @@ const q16Results = [
     "Nombre possédant le talent": 9,
     "Type possédant le plus le talent": "Normal",
     "Pourcentage possession": "0.99%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "44.44%",
     "Pourcentage par rapport au talent le plus possédé": "20.93%",
   },
   {
@@ -9761,7 +9761,7 @@ const q16Results = [
     "Nombre possédant le talent": 8,
     "Type possédant le plus le talent": "Normal",
     "Pourcentage possession": "0.88%",
-    "Pourcentage possession caché": "0.88%",
+    "Pourcentage possession cachée": "25.0%",
     "Pourcentage par rapport au talent le plus possédé": "18.6%",
   },
   {
@@ -9769,7 +9769,7 @@ const q16Results = [
     "Nombre possédant le talent": 3,
     "Type possédant le plus le talent": "Sol",
     "Pourcentage possession": "0.33%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "6.98%",
   },
   {
@@ -9777,7 +9777,7 @@ const q16Results = [
     "Nombre possédant le talent": 9,
     "Type possédant le plus le talent": "Electrik",
     "Pourcentage possession": "0.99%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "44.44%",
     "Pourcentage par rapport au talent le plus possédé": "20.93%",
   },
   {
@@ -9785,7 +9785,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Combat",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -9793,7 +9793,7 @@ const q16Results = [
     "Nombre possédant le talent": 15,
     "Type possédant le plus le talent": "Combat",
     "Pourcentage possession": "1.66%",
-    "Pourcentage possession caché": "1.66%",
+    "Pourcentage possession cachée": "46.67%",
     "Pourcentage par rapport au talent le plus possédé": "34.88%",
   },
   {
@@ -9801,7 +9801,7 @@ const q16Results = [
     "Nombre possédant le talent": 17,
     "Type possédant le plus le talent": "Poison",
     "Pourcentage possession": "1.88%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "39.53%",
   },
   {
@@ -9809,7 +9809,7 @@ const q16Results = [
     "Nombre possédant le talent": 3,
     "Type possédant le plus le talent": "Dragon",
     "Pourcentage possession": "0.33%",
-    "Pourcentage possession caché": "0.33%",
+    "Pourcentage possession cachée": "100.0%",
     "Pourcentage par rapport au talent le plus possédé": "6.98%",
   },
   {
@@ -9817,7 +9817,7 @@ const q16Results = [
     "Nombre possédant le talent": 11,
     "Type possédant le plus le talent": "Plante",
     "Pourcentage possession": "1.22%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "27.27%",
     "Pourcentage par rapport au talent le plus possédé": "25.58%",
   },
   {
@@ -9825,7 +9825,7 @@ const q16Results = [
     "Nombre possédant le talent": 28,
     "Type possédant le plus le talent": "Vol",
     "Pourcentage possession": "3.09%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "14.29%",
     "Pourcentage par rapport au talent le plus possédé": "65.12%",
   },
   {
@@ -9833,7 +9833,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Plante",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -9841,7 +9841,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Fée",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -9849,7 +9849,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Psy",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -9857,7 +9857,7 @@ const q16Results = [
     "Nombre possédant le talent": 9,
     "Type possédant le plus le talent": "Eau",
     "Pourcentage possession": "0.99%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "20.93%",
   },
   {
@@ -9865,7 +9865,7 @@ const q16Results = [
     "Nombre possédant le talent": 2,
     "Type possédant le plus le talent": "Eau",
     "Pourcentage possession": "0.22%",
-    "Pourcentage possession caché": "0.22%",
+    "Pourcentage possession cachée": "100.0%",
     "Pourcentage par rapport au talent le plus possédé": "4.65%",
   },
   {
@@ -9873,7 +9873,7 @@ const q16Results = [
     "Nombre possédant le talent": 4,
     "Type possédant le plus le talent": "Eau",
     "Pourcentage possession": "0.44%",
-    "Pourcentage possession caché": "0.44%",
+    "Pourcentage possession cachée": "100.0%",
     "Pourcentage par rapport au talent le plus possédé": "9.3%",
   },
   {
@@ -9881,7 +9881,7 @@ const q16Results = [
     "Nombre possédant le talent": 6,
     "Type possédant le plus le talent": "Psy",
     "Pourcentage possession": "0.66%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "13.95%",
   },
   {
@@ -9889,7 +9889,7 @@ const q16Results = [
     "Nombre possédant le talent": 9,
     "Type possédant le plus le talent": "Poison",
     "Pourcentage possession": "0.99%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "33.33%",
     "Pourcentage par rapport au talent le plus possédé": "20.93%",
   },
   {
@@ -9897,7 +9897,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Electrik",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -9905,7 +9905,7 @@ const q16Results = [
     "Nombre possédant le talent": 11,
     "Type possédant le plus le talent": "Normal",
     "Pourcentage possession": "1.22%",
-    "Pourcentage possession caché": "1.22%",
+    "Pourcentage possession cachée": "81.82%",
     "Pourcentage par rapport au talent le plus possédé": "25.58%",
   },
   {
@@ -9913,7 +9913,7 @@ const q16Results = [
     "Nombre possédant le talent": 2,
     "Type possédant le plus le talent": "Spectre",
     "Pourcentage possession": "0.22%",
-    "Pourcentage possession caché": "0.22%",
+    "Pourcentage possession cachée": "100.0%",
     "Pourcentage par rapport au talent le plus possédé": "4.65%",
   },
   {
@@ -9921,7 +9921,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Normal",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0.11%",
+    "Pourcentage possession cachée": "100.0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -9929,7 +9929,7 @@ const q16Results = [
     "Nombre possédant le talent": 17,
     "Type possédant le plus le talent": "Normal",
     "Pourcentage possession": "1.88%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "11.76%",
     "Pourcentage par rapport au talent le plus possédé": "39.53%",
   },
   {
@@ -9937,7 +9937,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Electrik",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -9945,7 +9945,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Combat",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -9953,7 +9953,7 @@ const q16Results = [
     "Nombre possédant le talent": 38,
     "Type possédant le plus le talent": "Vol",
     "Pourcentage possession": "4.2%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "13.16%",
     "Pourcentage par rapport au talent le plus possédé": "88.37%",
   },
   {
@@ -9961,7 +9961,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Eau",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -9969,7 +9969,7 @@ const q16Results = [
     "Nombre possédant le talent": 10,
     "Type possédant le plus le talent": "Glace",
     "Pourcentage possession": "1.1%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "10.0%",
     "Pourcentage par rapport au talent le plus possédé": "23.26%",
   },
   {
@@ -9977,7 +9977,7 @@ const q16Results = [
     "Nombre possédant le talent": 18,
     "Type possédant le plus le talent": "Poison",
     "Pourcentage possession": "1.99%",
-    "Pourcentage possession caché": "1.99%",
+    "Pourcentage possession cachée": "22.22%",
     "Pourcentage par rapport au talent le plus possédé": "41.86%",
   },
   {
@@ -9985,7 +9985,7 @@ const q16Results = [
     "Nombre possédant le talent": 5,
     "Type possédant le plus le talent": "Plante",
     "Pourcentage possession": "0.55%",
-    "Pourcentage possession caché": "0.55%",
+    "Pourcentage possession cachée": "100.0%",
     "Pourcentage par rapport au talent le plus possédé": "11.63%",
   },
   {
@@ -9993,7 +9993,7 @@ const q16Results = [
     "Nombre possédant le talent": 20,
     "Type possédant le plus le talent": "Eau",
     "Pourcentage possession": "2.21%",
-    "Pourcentage possession caché": "2.21%",
+    "Pourcentage possession cachée": "75.0%",
     "Pourcentage par rapport au talent le plus possédé": "46.51%",
   },
   {
@@ -10001,7 +10001,7 @@ const q16Results = [
     "Nombre possédant le talent": 2,
     "Type possédant le plus le talent": "Sol",
     "Pourcentage possession": "0.22%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "4.65%",
   },
   {
@@ -10009,7 +10009,7 @@ const q16Results = [
     "Nombre possédant le talent": 4,
     "Type possédant le plus le talent": "Roche",
     "Pourcentage possession": "0.44%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "9.3%",
   },
   {
@@ -10017,7 +10017,7 @@ const q16Results = [
     "Nombre possédant le talent": 28,
     "Type possédant le plus le talent": "Combat",
     "Pourcentage possession": "3.09%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "64.29%",
     "Pourcentage par rapport au talent le plus possédé": "65.12%",
   },
   {
@@ -10025,7 +10025,7 @@ const q16Results = [
     "Nombre possédant le talent": 5,
     "Type possédant le plus le talent": "Normal",
     "Pourcentage possession": "0.55%",
-    "Pourcentage possession caché": "0.55%",
+    "Pourcentage possession cachée": "40.0%",
     "Pourcentage par rapport au talent le plus possédé": "11.63%",
   },
   {
@@ -10033,7 +10033,7 @@ const q16Results = [
     "Nombre possédant le talent": 17,
     "Type possédant le plus le talent": "Eau",
     "Pourcentage possession": "1.88%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "47.06%",
     "Pourcentage par rapport au talent le plus possédé": "39.53%",
   },
   {
@@ -10041,7 +10041,7 @@ const q16Results = [
     "Nombre possédant le talent": 3,
     "Type possédant le plus le talent": "Plante",
     "Pourcentage possession": "0.33%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "33.33%",
     "Pourcentage par rapport au talent le plus possédé": "6.98%",
   },
   {
@@ -10049,7 +10049,7 @@ const q16Results = [
     "Nombre possédant le talent": 4,
     "Type possédant le plus le talent": "Roche",
     "Pourcentage possession": "0.44%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "9.3%",
   },
   {
@@ -10057,7 +10057,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Spectre",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -10065,7 +10065,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Psy",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -10073,7 +10073,7 @@ const q16Results = [
     "Nombre possédant le talent": 17,
     "Type possédant le plus le talent": "Electrik",
     "Pourcentage possession": "1.88%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "5.88%",
     "Pourcentage par rapport au talent le plus possédé": "39.53%",
   },
   {
@@ -10081,7 +10081,7 @@ const q16Results = [
     "Nombre possédant le talent": 4,
     "Type possédant le plus le talent": "Poison",
     "Pourcentage possession": "0.44%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "9.3%",
   },
   {
@@ -10089,7 +10089,7 @@ const q16Results = [
     "Nombre possédant le talent": 4,
     "Type possédant le plus le talent": "Fée",
     "Pourcentage possession": "0.44%",
-    "Pourcentage possession caché": "0.44%",
+    "Pourcentage possession cachée": "100.0%",
     "Pourcentage par rapport au talent le plus possédé": "9.3%",
   },
   {
@@ -10097,7 +10097,7 @@ const q16Results = [
     "Nombre possédant le talent": 16,
     "Type possédant le plus le talent": "Psy",
     "Pourcentage possession": "1.77%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "37.21%",
   },
   {
@@ -10105,7 +10105,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Normal",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -10113,7 +10113,7 @@ const q16Results = [
     "Nombre possédant le talent": 4,
     "Type possédant le plus le talent": "Feu",
     "Pourcentage possession": "0.44%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "50.0%",
     "Pourcentage par rapport au talent le plus possédé": "9.3%",
   },
   {
@@ -10121,7 +10121,7 @@ const q16Results = [
     "Nombre possédant le talent": 11,
     "Type possédant le plus le talent": "Normal",
     "Pourcentage possession": "1.22%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "18.18%",
     "Pourcentage par rapport au talent le plus possédé": "25.58%",
   },
   {
@@ -10129,7 +10129,7 @@ const q16Results = [
     "Nombre possédant le talent": 18,
     "Type possédant le plus le talent": "Normal",
     "Pourcentage possession": "1.99%",
-    "Pourcentage possession caché": "1.99%",
+    "Pourcentage possession cachée": "44.44%",
     "Pourcentage par rapport au talent le plus possédé": "41.86%",
   },
   {
@@ -10137,7 +10137,7 @@ const q16Results = [
     "Nombre possédant le talent": 22,
     "Type possédant le plus le talent": "Eau",
     "Pourcentage possession": "2.43%",
-    "Pourcentage possession caché": "2.43%",
+    "Pourcentage possession cachée": "22.73%",
     "Pourcentage par rapport au talent le plus possédé": "51.16%",
   },
   {
@@ -10145,7 +10145,7 @@ const q16Results = [
     "Nombre possédant le talent": 25,
     "Type possédant le plus le talent": "Normal",
     "Pourcentage possession": "2.76%",
-    "Pourcentage possession caché": "2.76%",
+    "Pourcentage possession cachée": "68.0%",
     "Pourcentage par rapport au talent le plus possédé": "58.14%",
   },
   {
@@ -10153,7 +10153,7 @@ const q16Results = [
     "Nombre possédant le talent": 2,
     "Type possédant le plus le talent": "Plante",
     "Pourcentage possession": "0.22%",
-    "Pourcentage possession caché": "0.22%",
+    "Pourcentage possession cachée": "100.0%",
     "Pourcentage par rapport au talent le plus possédé": "4.65%",
   },
   {
@@ -10161,7 +10161,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Normal",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -10169,7 +10169,7 @@ const q16Results = [
     "Nombre possédant le talent": 22,
     "Type possédant le plus le talent": "Feu",
     "Pourcentage possession": "2.43%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "27.27%",
     "Pourcentage par rapport au talent le plus possédé": "51.16%",
   },
   {
@@ -10177,7 +10177,7 @@ const q16Results = [
     "Nombre possédant le talent": 26,
     "Type possédant le plus le talent": "Eau",
     "Pourcentage possession": "2.87%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "7.69%",
     "Pourcentage par rapport au talent le plus possédé": "60.47%",
   },
   {
@@ -10185,7 +10185,7 @@ const q16Results = [
     "Nombre possédant le talent": 8,
     "Type possédant le plus le talent": "Poison",
     "Pourcentage possession": "0.88%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "62.5%",
     "Pourcentage par rapport au talent le plus possédé": "18.6%",
   },
   {
@@ -10193,7 +10193,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Electrik",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -10201,7 +10201,7 @@ const q16Results = [
     "Nombre possédant le talent": 3,
     "Type possédant le plus le talent": "Roche",
     "Pourcentage possession": "0.33%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "6.98%",
   },
   {
@@ -10209,7 +10209,7 @@ const q16Results = [
     "Nombre possédant le talent": 11,
     "Type possédant le plus le talent": "Insecte",
     "Pourcentage possession": "1.22%",
-    "Pourcentage possession caché": "1.22%",
+    "Pourcentage possession cachée": "72.73%",
     "Pourcentage par rapport au talent le plus possédé": "25.58%",
   },
   {
@@ -10217,7 +10217,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Dragon",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -10225,7 +10225,7 @@ const q16Results = [
     "Nombre possédant le talent": 4,
     "Type possédant le plus le talent": "Normal",
     "Pourcentage possession": "0.44%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "9.3%",
   },
   {
@@ -10233,7 +10233,7 @@ const q16Results = [
     "Nombre possédant le talent": 24,
     "Type possédant le plus le talent": "Psy",
     "Pourcentage possession": "2.65%",
-    "Pourcentage possession caché": "2.65%",
+    "Pourcentage possession cachée": "87.5%",
     "Pourcentage par rapport au talent le plus possédé": "55.81%",
   },
   {
@@ -10241,7 +10241,7 @@ const q16Results = [
     "Nombre possédant le talent": 13,
     "Type possédant le plus le talent": "Normal",
     "Pourcentage possession": "1.44%",
-    "Pourcentage possession caché": "1.44%",
+    "Pourcentage possession cachée": "69.23%",
     "Pourcentage par rapport au talent le plus possédé": "30.23%",
   },
   {
@@ -10249,7 +10249,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Dragon",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -10257,7 +10257,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Glace",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -10265,7 +10265,7 @@ const q16Results = [
     "Nombre possédant le talent": 19,
     "Type possédant le plus le talent": "Roche",
     "Pourcentage possession": "2.1%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "5.26%",
     "Pourcentage par rapport au talent le plus possédé": "44.19%",
   },
   {
@@ -10273,7 +10273,7 @@ const q16Results = [
     "Nombre possédant le talent": 3,
     "Type possédant le plus le talent": "Normal",
     "Pourcentage possession": "0.33%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "33.33%",
     "Pourcentage par rapport au talent le plus possédé": "6.98%",
   },
   {
@@ -10281,7 +10281,7 @@ const q16Results = [
     "Nombre possédant le talent": 5,
     "Type possédant le plus le talent": "Plante",
     "Pourcentage possession": "0.55%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "11.63%",
   },
   {
@@ -10289,7 +10289,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Feu",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -10297,7 +10297,7 @@ const q16Results = [
     "Nombre possédant le talent": 24,
     "Type possédant le plus le talent": "Sol",
     "Pourcentage possession": "2.65%",
-    "Pourcentage possession caché": "2.65%",
+    "Pourcentage possession cachée": "45.83%",
     "Pourcentage par rapport au talent le plus possédé": "55.81%",
   },
   {
@@ -10305,7 +10305,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Sol",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -10313,7 +10313,7 @@ const q16Results = [
     "Nombre possédant le talent": 3,
     "Type possédant le plus le talent": "Dragon",
     "Pourcentage possession": "0.33%",
-    "Pourcentage possession caché": "0.33%",
+    "Pourcentage possession cachée": "66.67%",
     "Pourcentage par rapport au talent le plus possédé": "6.98%",
   },
   {
@@ -10321,7 +10321,7 @@ const q16Results = [
     "Nombre possédant le talent": 2,
     "Type possédant le plus le talent": "Glace",
     "Pourcentage possession": "0.22%",
-    "Pourcentage possession caché": "0.22%",
+    "Pourcentage possession cachée": "100.0%",
     "Pourcentage par rapport au talent le plus possédé": "4.65%",
   },
   {
@@ -10329,7 +10329,7 @@ const q16Results = [
     "Nombre possédant le talent": 14,
     "Type possédant le plus le talent": "Normal",
     "Pourcentage possession": "1.55%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "14.29%",
     "Pourcentage par rapport au talent le plus possédé": "32.56%",
   },
   {
@@ -10337,7 +10337,7 @@ const q16Results = [
     "Nombre possédant le talent": 4,
     "Type possédant le plus le talent": "Feu",
     "Pourcentage possession": "0.44%",
-    "Pourcentage possession caché": "0.44%",
+    "Pourcentage possession cachée": "25.0%",
     "Pourcentage par rapport au talent le plus possédé": "9.3%",
   },
   {
@@ -10345,7 +10345,7 @@ const q16Results = [
     "Nombre possédant le talent": 11,
     "Type possédant le plus le talent": "Insecte",
     "Pourcentage possession": "1.22%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "25.58%",
   },
   {
@@ -10353,7 +10353,7 @@ const q16Results = [
     "Nombre possédant le talent": 1,
     "Type possédant le plus le talent": "Combat",
     "Pourcentage possession": "0.11%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "2.33%",
   },
   {
@@ -10361,7 +10361,7 @@ const q16Results = [
     "Nombre possédant le talent": 3,
     "Type possédant le plus le talent": "Acier",
     "Pourcentage possession": "0.33%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "0%",
     "Pourcentage par rapport au talent le plus possédé": "6.98%",
   },
   {
@@ -10369,12 +10369,10 @@ const q16Results = [
     "Nombre possédant le talent": 11,
     "Type possédant le plus le talent": "Insecte",
     "Pourcentage possession": "1.22%",
-    "Pourcentage possession caché": "0%",
+    "Pourcentage possession cachée": "9.09%",
     "Pourcentage par rapport au talent le plus possédé": "25.58%",
   },
 ];
-
-
 
 module.exports = {
   q1Results,
@@ -10392,5 +10390,5 @@ module.exports = {
   q13Results,
   q14Results,
   q15Results,
-  q16Results
+  q16Results,
 };

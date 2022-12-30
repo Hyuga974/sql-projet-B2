@@ -20,10 +20,10 @@ test("La 4ème propriété doit s'appeler 'Pourcentage possession'", async () =>
   let queryResults = await executeQuery("./data/pokemonDB.db", q16);
   expect(Object.keys(queryResults[0])[3]).toEqual("Pourcentage possession");
 });
-test("La 5ème propriété doit s'appeler 'Pourcentage possession caché'", async () => {
+test("La 5ème propriété doit s'appeler 'Pourcentage possession cachée'", async () => {
   let queryResults = await executeQuery("./data/pokemonDB.db", q16);
   expect(Object.keys(queryResults[0])[4]).toEqual(
-    "Pourcentage possession caché"
+    "Pourcentage possession cachée"
   );
 });
 test("La 6ème propriété doit s'appeler 'Pourcentage par rapport au talent le plus possédé'", async () => {

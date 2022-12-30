@@ -6,17 +6,17 @@ test("La 1er propriété doit s'appeler 'Type'", async () => {
   let queryResults = await executeQuery("./data/pokemonDB.db", q10);
   expect(Object.keys(queryResults[0])[0]).toEqual("Type");
 });
-test("La 2ème propriété doit s'appeler 'Meilleure attaque'", async () => {
+test("La 2ème propriété doit s'appeler 'Meilleure capacité'", async () => {
   let queryResults = await executeQuery("./data/pokemonDB.db", q10);
-  expect(Object.keys(queryResults[0])[1]).toEqual("Meilleure attaque");
+  expect(Object.keys(queryResults[0])[1]).toEqual("Meilleure capacité");
 });
 test("La 3ème propriété doit s'appeler 'Meilleure puissance'", async () => {
   let queryResults = await executeQuery("./data/pokemonDB.db", q10);
   expect(Object.keys(queryResults[0])[2]).toEqual("Meilleure puissance");
 });
-test("La 4ème propriété doit s'appeler 'Pire attaque'", async () => {
+test("La 4ème propriété doit s'appeler 'Pire capacité'", async () => {
   let queryResults = await executeQuery("./data/pokemonDB.db", q10);
-  expect(Object.keys(queryResults[0])[3]).toEqual("Pire attaque");
+  expect(Object.keys(queryResults[0])[3]).toEqual("Pire capacité");
 });
 test("La 5ème propriété doit s'appeler 'Pire puissance'", async () => {
   let queryResults = await executeQuery("./data/pokemonDB.db", q10);
