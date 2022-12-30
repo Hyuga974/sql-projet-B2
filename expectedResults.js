@@ -7263,7 +7263,7 @@ const q8Results = [
     "Nombre de pokemon avec le type slot 2": 8,
   },
   {
-    "Nom du type": "Tenèbres",
+    "Nom du type": "Ténèbres",
     "Nombre de pokemon": 56,
     "Nombre de pokemon avec le type slot 1": 37,
     "Nombre de pokemon avec le type slot 2": 19,
@@ -7275,7 +7275,7 @@ const q8Results = [
     "Nombre de pokemon avec le type slot 2": 25,
   },
   {
-    "Nom du type": "Fee",
+    "Nom du type": "Fée",
     "Nombre de pokemon": 55,
     "Nombre de pokemon avec le type slot 1": 22,
     "Nombre de pokemon avec le type slot 2": 33,
