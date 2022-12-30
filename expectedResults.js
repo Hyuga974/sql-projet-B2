@@ -364,7 +364,7 @@ const q3Results = [
   {
     Nom: "Jet-Pierres",
     Catégorie: "Physique",
-    puissance: 50,
+    Puissance: 50,
     "Point de pouvoir": 15,
     Précision: 90,
     Description: "Le lanceur lâche une pierre sur l’ennemi.",
@@ -372,7 +372,7 @@ const q3Results = [
   {
     Nom: "Éboulement",
     Catégorie: "Physique",
-    puissance: 75,
+    Puissance: 75,
     "Point de pouvoir": 10,
     Précision: 90,
     Description:
@@ -381,7 +381,7 @@ const q3Results = [
   {
     Nom: "Roulade",
     Catégorie: "Physique",
-    puissance: 30,
+    Puissance: 30,
     "Point de pouvoir": 20,
     Précision: 90,
     Description:
@@ -390,7 +390,7 @@ const q3Results = [
   {
     Nom: "Tomberoche",
     Catégorie: "Physique",
-    puissance: 60,
+    Puissance: 60,
     "Point de pouvoir": 15,
     Précision: 95,
     Description: "Des rochers frappent l’ennemi.\nRéduit aussi sa Vitesse.",
@@ -398,7 +398,7 @@ const q3Results = [
   {
     Nom: "Boule Roc",
     Catégorie: "Physique",
-    puissance: 25,
+    Puissance: 25,
     "Point de pouvoir": 10,
     Précision: 90,
     Description:
@@ -407,7 +407,7 @@ const q3Results = [
   {
     Nom: "Roc-Boulet",
     Catégorie: "Physique",
-    puissance: 150,
+    Puissance: 150,
     "Point de pouvoir": 5,
     Précision: 90,
     Description:
@@ -416,7 +416,7 @@ const q3Results = [
   {
     Nom: "Lame de Roc",
     Catégorie: "Physique",
-    puissance: 100,
+    Puissance: 100,
     "Point de pouvoir": 5,
     Précision: 80,
     Description:
@@ -425,7 +425,7 @@ const q3Results = [
   {
     Nom: "Fracass’Tête",
     Catégorie: "Physique",
-    puissance: 150,
+    Puissance: 150,
     "Point de pouvoir": 5,
     Précision: 80,
     Description:
@@ -434,7 +434,7 @@ const q3Results = [
   {
     Nom: "Anti-Air",
     Catégorie: "Physique",
-    puissance: 50,
+    Puissance: 50,
     "Point de pouvoir": 15,
     Précision: 100,
     Description:
@@ -443,7 +443,7 @@ const q3Results = [
   {
     Nom: "Orage Adamantin",
     Catégorie: "Physique",
-    puissance: 100,
+    Puissance: 100,
     "Point de pouvoir": 5,
     Précision: 95,
     Description:
@@ -452,7 +452,7 @@ const q3Results = [
   {
     Nom: "Vif Roc",
     Catégorie: "Physique",
-    puissance: 40,
+    Puissance: 40,
     "Point de pouvoir": 20,
     Précision: 100,
     Description:
@@ -461,7 +461,7 @@ const q3Results = [
   {
     Nom: "Pouvoir Antique",
     Catégorie: "Spéciale",
-    puissance: 60,
+    Puissance: 60,
     "Point de pouvoir": 5,
     Précision: 100,
     Description:
@@ -470,7 +470,7 @@ const q3Results = [
   {
     Nom: "Rayon Gemme",
     Catégorie: "Spéciale",
-    puissance: 80,
+    Puissance: 80,
     "Point de pouvoir": 20,
     Précision: 100,
     Description:
@@ -479,16 +479,16 @@ const q3Results = [
   {
     Nom: "Laser Météore",
     Catégorie: "Spéciale",
-    puissance: 120,
+    Puissance: 120,
     "Point de pouvoir": 10,
     Précision: 90,
     Description:
-      "Le lanceur concentre l’énergie cosmique au premier\ntour, ce qui augmente son attaque Spéciale, et frappe\nau second.",
+      "Le lanceur concentre l’énergie cosmique au premier\ntour, ce qui augmente son Attaque Spéciale, et frappe\nau second.",
   },
   {
     Nom: "Tempête de Sable",
     Catégorie: "Statut",
-    puissance: null,
+    Puissance: null,
     "Point de pouvoir": 10,
     Précision: null,
     Description:
@@ -497,7 +497,7 @@ const q3Results = [
   {
     Nom: "Poliroche",
     Catégorie: "Statut",
-    puissance: null,
+    Puissance: null,
     "Point de pouvoir": 20,
     Précision: null,
     Description:
@@ -506,7 +506,7 @@ const q3Results = [
   {
     Nom: "Piège de Roc",
     Catégorie: "Statut",
-    puissance: null,
+    Puissance: null,
     "Point de pouvoir": 20,
     Précision: null,
     Description:
@@ -515,7 +515,7 @@ const q3Results = [
   {
     Nom: "Garde Large",
     Catégorie: "Statut",
-    puissance: null,
+    Puissance: null,
     "Point de pouvoir": 10,
     Précision: null,
     Description: "Annule les attaques visant toute l’équipe pendant\nun tour.",
@@ -523,7 +523,7 @@ const q3Results = [
   {
     Nom: "Goudronnage",
     Catégorie: "Statut",
-    puissance: null,
+    Puissance: null,
     "Point de pouvoir": 15,
     Précision: 100,
     Description:
@@ -665,7 +665,7 @@ const q4Results = [
   {
     Id: 234,
     Talent: "Lame Indomptable",
-    Description: "Augmente l’attaque du Pokémon quand il entre\nau combat.",
+    Description: "Augmente l’Attaque du Pokémon quand il entre\nau combat.",
   },
   {
     Id: 118,
@@ -971,7 +971,7 @@ const q4Results = [
     Id: 252,
     Talent: "Boost Acier",
     Description:
-      "Augmente la puissance d’attaque des capacités\nde type Acier des Pokémon alliés.",
+      "Augmente la puissance d’Attaque des capacités\nde type Acier des Pokémon alliés.",
   },
   {
     Id: 121,
@@ -1091,7 +1091,7 @@ const q4Results = [
     Id: 112,
     Talent: "Début Calme",
     Description:
-      "Divise la Vitesse et l’attaque du Pokémon par deux\npendant les cinq premiers tours du combat.",
+      "Divise la Vitesse et l’Attaque du Pokémon par deux\npendant les cinq premiers tours du combat.",
   },
   {
     Id: 156,
@@ -1115,13 +1115,13 @@ const q4Results = [
     Id: 122,
     Talent: "Don Floral",
     Description:
-      "Augmente l’attaque et la Défense Spéciale du Pokémon\net de ses alliés lorsque le soleil brille.",
+      "Augmente l’Attaque et la Défense Spéciale du Pokémon\net de ses alliés lorsque le soleil brille.",
   },
   {
     Id: 52,
     Talent: "Hyper Cutter",
     Description:
-      "Le Pokémon est armé de lames tranchantes qui font\nsa fierté et empêchent son attaque de baisser.",
+      "Le Pokémon est armé de lames tranchantes qui font\nsa fierté et empêchent son Attaque de baisser.",
   },
   {
     Id: 219,
@@ -1139,7 +1139,7 @@ const q4Results = [
     Id: 94,
     Talent: "Force Soleil",
     Description:
-      "Quand le soleil brille, l’attaque Spéciale du Pokémon\naugmente mais il perd des PV à chaque tour.",
+      "Quand le soleil brille, l’Attaque Spéciale du Pokémon\naugmente mais il perd des PV à chaque tour.",
   },
   {
     Id: 257,
@@ -1151,7 +1151,7 @@ const q4Results = [
     Id: 264,
     Talent: "Blanche Ruade",
     Description:
-      "Quand le Pokémon met un ennemi K.O., il émet\nun hennissement glaçant, ce qui augmente son attaque.",
+      "Quand le Pokémon met un ennemi K.O., il émet\nun hennissement glaçant, ce qui augmente son Attaque.",
   },
   {
     Id: 19,
@@ -1205,13 +1205,13 @@ const q4Results = [
     Id: 265,
     Talent: "Sombre Ruade",
     Description:
-      "Quand le Pokémon met un ennemi K.O., il émet\nun hennissement terrifiant qui augmente\nson attaque Spéciale.",
+      "Quand le Pokémon met un ennemi K.O., il émet\nun hennissement terrifiant qui augmente\nson Attaque Spéciale.",
   },
   {
     Id: 154,
     Talent: "Cœur Noble",
     Description:
-      "Réveille la noblesse du Pokémon lorsqu’il subit\nune capacité de type Ténèbres, ce qui augmente\nson attaque.",
+      "Réveille la noblesse du Pokémon lorsqu’il subit\nune capacité de type Ténèbres, ce qui augmente\nson Attaque.",
   },
   {
     Id: 106,
@@ -1259,7 +1259,7 @@ const q4Results = [
     Id: 197,
     Talent: "Bouclier-Carcan",
     Description:
-      "Lorsque le Pokémon perd la moitié de ses PV,\nson enveloppe se brise, mais son attaque\net son attaque Spéciale augmentent.",
+      "Lorsque le Pokémon perd la moitié de ses PV,\nson enveloppe se brise, mais son Attaque\net son Attaque Spéciale augmentent.",
   },
   {
     Id: 218,
@@ -1386,14 +1386,14 @@ const q6Results = [
     Pokemon: "Ceriflor",
     Talent: "Don Floral",
     "Description talent":
-      "Augmente l’attaque et la Défense Spéciale du Pokémon\net de ses alliés lorsque le soleil brille.",
+      "Augmente l’Attaque et la Défense Spéciale du Pokémon\net de ses alliés lorsque le soleil brille.",
   },
   {
     "N°": 486,
     Pokemon: "Regigigas",
     Talent: "Début Calme",
     "Description talent":
-      "Divise la Vitesse et l’attaque du Pokémon par deux\npendant les cinq premiers tours du combat.",
+      "Divise la Vitesse et l’Attaque du Pokémon par deux\npendant les cinq premiers tours du combat.",
   },
   {
     "N°": 491,
@@ -1551,7 +1551,7 @@ const q6Results = [
     Pokemon: "Météno",
     Talent: "Bouclier-Carcan",
     "Description talent":
-      "Lorsque le Pokémon perd la moitié de ses PV,\nson enveloppe se brise, mais son attaque\net son attaque Spéciale augmentent.",
+      "Lorsque le Pokémon perd la moitié de ses PV,\nson enveloppe se brise, mais son Attaque\net son Attaque Spéciale augmentent.",
   },
   {
     "N°": 775,
@@ -1579,7 +1579,7 @@ const q6Results = [
     Pokemon: "Draïeul",
     Talent: "Dracolère",
     "Description talent":
-      "Augmente l’attaque Spéciale du Pokémon lorsqu’il\ntombe à la moitié de ses PV à cause d’une attaque.",
+      "Augmente l’Attaque Spéciale du Pokémon lorsqu’il\ntombe à la moitié de ses PV à cause d’une attaque.",
   },
   {
     "N°": 781,
@@ -1620,7 +1620,7 @@ const q6Results = [
     Pokemon: "Magearna",
     Talent: "Animacœur",
     "Description talent":
-      "Augmente l’attaque Spéciale du Pokémon\nlorsqu’un autre Pokémon est mis K.O.",
+      "Augmente l’Attaque Spéciale du Pokémon\nlorsqu’un autre Pokémon est mis K.O.",
   },
   {
     "N°": 823,
@@ -1655,7 +1655,7 @@ const q6Results = [
     Pokemon: "Berserkatt",
     Talent: "Boost Acier",
     "Description talent":
-      "Augmente la puissance d’attaque des capacités\nde type Acier des Pokémon alliés.",
+      "Augmente la puissance d’Attaque des capacités\nde type Acier des Pokémon alliés.",
   },
   {
     "N°": 864,
@@ -1711,7 +1711,7 @@ const q6Results = [
     Pokemon: "Zacian",
     Talent: "Lame Indomptable",
     "Description talent":
-      "Augmente l’attaque du Pokémon quand il entre\nau combat.",
+      "Augmente l’Attaque du Pokémon quand il entre\nau combat.",
   },
   {
     "N°": 889,
@@ -1745,14 +1745,14 @@ const q6Results = [
     Pokemon: "Blizzeval",
     Talent: "Blanche Ruade",
     "Description talent":
-      "Quand le Pokémon met un ennemi K.O., il émet\nun hennissement glaçant, ce qui augmente son attaque.",
+      "Quand le Pokémon met un ennemi K.O., il émet\nun hennissement glaçant, ce qui augmente son Attaque.",
   },
   {
     "N°": 897,
     Pokemon: "Spectreval",
     Talent: "Sombre Ruade",
     "Description talent":
-      "Quand le Pokémon met un ennemi K.O., il émet\nun hennissement terrifiant qui augmente\nson attaque Spéciale.",
+      "Quand le Pokémon met un ennemi K.O., il émet\nun hennissement terrifiant qui augmente\nson Attaque Spéciale.",
   },
 ];
 
@@ -7304,7 +7304,7 @@ const q9Results = [
   {
     Type: "Normal",
     Capacité: "Explosion",
-    puissance: 250,
+    Puissance: 250,
     Précision: 100,
     Description:
       "Le lanceur explose et inflige des dégâts à tous\nles Pokémon autour de lui. Met K.O. le lanceur.",
@@ -7312,7 +7312,7 @@ const q9Results = [
   {
     Type: "Normal",
     Capacité: "Destruction",
-    puissance: 200,
+    Puissance: 200,
     Précision: 100,
     Description:
       "Le lanceur explose en blessant tous les Pokémon\nautour de lui. Le lanceur tombe K.O.",
@@ -7320,7 +7320,7 @@ const q9Results = [
   {
     Type: "Feu",
     Capacité: "Coup Victoire",
-    puissance: 180,
+    Puissance: 180,
     Précision: 95,
     Description:
       "Le lanceur projette une flamme ardente de son front\net se jette sur l’ennemi. Baisse la Défense, la Défense\nSpéciale et la Vitesse.",
@@ -7328,7 +7328,7 @@ const q9Results = [
   {
     Type: "Combat",
     Capacité: "Mitra-Poing",
-    puissance: 150,
+    Puissance: 150,
     Précision: 100,
     Description:
       "Le lanceur se concentre avant d’attaquer.\nÉchoue s’il est touché avant d’avoir frappé.",
@@ -7336,7 +7336,7 @@ const q9Results = [
   {
     Type: "Feu",
     Capacité: "Éruption",
-    puissance: 150,
+    Puissance: 150,
     Précision: 100,
     Description:
       "Le lanceur laisse exploser sa colère.\nPlus ses PV sont bas, moins l’attaque est puissante.",
@@ -7344,7 +7344,7 @@ const q9Results = [
   {
     Type: "Eau",
     Capacité: "Giclédo",
-    puissance: 150,
+    Puissance: 150,
     Précision: 100,
     Description:
       "Le lanceur attaque avec un jet d’eau.\nMoins il a de PV et moins l’attaque est puissante.",
@@ -7352,7 +7352,7 @@ const q9Results = [
   {
     Type: "Feu",
     Capacité: "Carapiège",
-    puissance: 150,
+    Puissance: 150,
     Précision: 100,
     Description:
       "Pose une carapace piégée. Si l’adversaire utilise\nune capacité physique, la carapace explose et lui inflige\ndes dégâts.",
@@ -7360,7 +7360,7 @@ const q9Results = [
   {
     Type: "Feu",
     Capacité: "Caboche-Kaboum",
-    puissance: 150,
+    Puissance: 150,
     Précision: 100,
     Description:
       "Le lanceur fait exploser sa tête pour attaquer\ntoutes les cibles autour de lui.\nIl subit aussi des dégâts.",
@@ -7368,7 +7368,7 @@ const q9Results = [
   {
     Type: "Dragon",
     Capacité: "Draco-Énergie",
-    puissance: 150,
+    Puissance: 150,
     Précision: 100,
     Description:
       "Le lanceur utilise son énergie vitale pour attaquer\nl’ennemi. Moins il a de PV, moins l’attaque est puissante.",
@@ -7376,7 +7376,7 @@ const q9Results = [
   {
     Type: "Vol",
     Capacité: "Piqué",
-    puissance: 140,
+    Puissance: 140,
     Précision: 90,
     Description:
       "Une attaque en deux tours au taux de critiques élevé.\nPeut aussi apeurer l’ennemi.",
@@ -7384,7 +7384,7 @@ const q9Results = [
   {
     Type: "Acier",
     Capacité: "Vœu Destructeur",
-    puissance: 140,
+    Puissance: 140,
     Précision: 100,
     Description:
       "Le lanceur génère une sphère lumineuse qu’il projette\nsur l’ennemi deux tours plus tard.",
@@ -7392,7 +7392,7 @@ const q9Results = [
   {
     Type: "Psy",
     Capacité: "Psycho-Boost",
-    puissance: 140,
+    Puissance: 140,
     Précision: 90,
     Description:
       "Cette capacité ne peut pas être utilisée.\nIl est recommandé de l’oublier, même s’il sera\nimpossible de se la remémorer une fois oubliée.",
@@ -7400,7 +7400,7 @@ const q9Results = [
   {
     Type: "Normal",
     Capacité: "Dernier Recours",
-    puissance: 140,
+    Puissance: 140,
     Précision: 100,
     Description:
       "Cette capacité ne peut être utilisée qu’après\nque le lanceur a utilisé toutes les autres.",
@@ -7408,7 +7408,7 @@ const q9Results = [
   {
     Type: "Glace",
     Capacité: "Éclair Gelé",
-    puissance: 140,
+    Puissance: 140,
     Précision: 90,
     Description:
       "Projette un bloc de glace électrifié sur l’ennemi\nau second tour. Peut aussi le paralyser.",
@@ -7416,7 +7416,7 @@ const q9Results = [
   {
     Type: "Glace",
     Capacité: "Feu Glacé",
-    puissance: 140,
+    Puissance: 140,
     Précision: 90,
     Description:
       "Au second tour, le lanceur projette un souffle de vent\nglacial dévastateur sur l’ennemi. Peut aussi le brûler.",
@@ -7424,15 +7424,15 @@ const q9Results = [
   {
     Type: "Normal",
     Capacité: "Bang Sonique",
-    puissance: 140,
+    Puissance: 140,
     Précision: 100,
     Description:
-      "attaque les Pokémon alentour grâce à une onde sonore\nassourdissante qui détruit tout sur son passage.",
+      "Attaque les Pokémon alentour grâce à une onde sonore\nassourdissante qui détruit tout sur son passage.",
   },
   {
     Type: "Fée",
     Capacité: "Lumière du Néant",
-    puissance: 140,
+    Puissance: 140,
     Précision: 90,
     Description:
       "Utilise la puissance de la fleur Éternelle pour lancer\nun formidable rayon d’énergie.\nBlesse aussi gravement le lanceur.",
@@ -7440,7 +7440,7 @@ const q9Results = [
   {
     Type: "Acier",
     Capacité: "Métalaser",
-    puissance: 140,
+    Puissance: 140,
     Précision: 95,
     Description:
       "Le lanceur concentre du métal issu de tout son corps\nen un rayon qu’il projette violemment sur sa cible.\nIl subit aussi des dégâts.",
@@ -7448,7 +7448,7 @@ const q9Results = [
   {
     Type: "Combat",
     Capacité: "Pied Voltige",
-    puissance: 130,
+    Puissance: 130,
     Précision: 90,
     Description:
       "Le lanceur s’élance pour effectuer un coup de genou\nsauté. S’il échoue, le lanceur se blesse.",
@@ -7456,31 +7456,31 @@ const q9Results = [
   {
     Type: "Feu",
     Capacité: "Surchauffe",
-    puissance: 130,
+    Puissance: 130,
     Précision: 90,
     Description:
-      "attaque l’ennemi à pleine puissance.\nLe contrecoup baisse beaucoup l’attaque Spéciale\ndu lanceur.",
+      "Attaque l’ennemi à pleine puissance.\nLe contrecoup baisse beaucoup l’Attaque Spéciale\ndu lanceur.",
   },
   {
     Type: "Dragon",
     Capacité: "Draco-Météore",
-    puissance: 130,
+    Puissance: 130,
     Précision: 90,
     Description:
-      "Le lanceur invoque des comètes.\nLe contrecoup réduit beaucoup son attaque Spéciale.",
+      "Le lanceur invoque des comètes.\nLe contrecoup réduit beaucoup son Attaque Spéciale.",
   },
   {
     Type: "Plante",
     Capacité: "Tempête Verte",
-    puissance: 130,
+    Puissance: 130,
     Précision: 90,
     Description:
-      "Invoque une tempête de feuilles acérées.\nLe contrecoup réduit beaucoup l’attaque Spéciale\ndu lanceur.",
+      "Invoque une tempête de feuilles acérées.\nLe contrecoup réduit beaucoup l’Attaque Spéciale\ndu lanceur.",
   },
   {
     Type: "Feu",
     Capacité: "Flamme Ultime",
-    puissance: 130,
+    Puissance: 130,
     Précision: 100,
     Description:
       "Le Pokémon se consume et les flammes de son corps\ninfligent des dégâts élevés à la cible.\nLe lanceur perd le type Feu.",
@@ -7488,15 +7488,15 @@ const q9Results = [
   {
     Type: "Fée",
     Capacité: "Canon Floral",
-    puissance: 130,
+    Puissance: 130,
     Précision: 90,
     Description:
-      "Envoie un rayon laser dévastateur.\nBaisse beaucoup l’attaque Spéciale du lanceur.",
+      "Envoie un rayon laser dévastateur.\nBaisse beaucoup l’Attaque Spéciale du lanceur.",
   },
   {
     Type: "Acier",
     Capacité: "Métalliroue",
-    puissance: 130,
+    Puissance: 130,
     Précision: 100,
     Description:
       "Une attaque qui inflige des dégâts et fait disparaître\nle champ actif, mais qui échoue s’il n’y en a pas\nà ce moment.",
@@ -7504,7 +7504,7 @@ const q9Results = [
   {
     Type: "Glace",
     Capacité: "Lance de Glace",
-    puissance: 130,
+    Puissance: 130,
     Précision: 100,
     Description:
       "Le lanceur attaque l’ennemi avec une lance de glace\nentourée d’un blizzard.",
@@ -7512,7 +7512,7 @@ const q9Results = [
   {
     Type: "Normal",
     Capacité: "Mania",
-    puissance: 120,
+    Puissance: 120,
     Précision: 100,
     Description:
       "Une attaque furieuse qui dure de deux à trois tours.\nLe lanceur devient confus.",
@@ -7520,7 +7520,7 @@ const q9Results = [
   {
     Type: "Normal",
     Capacité: "Damoclès",
-    puissance: 120,
+    Puissance: 120,
     Précision: 100,
     Description:
       "Une charge dangereuse et imprudente.\nBlesse aussi gravement le lanceur.",
@@ -7528,7 +7528,7 @@ const q9Results = [
   {
     Type: "Plante",
     Capacité: "Danse Fleurs",
-    puissance: 120,
+    Puissance: 120,
     Précision: 100,
     Description:
       "Le lanceur attaque en projetant des pétales pendant\ndeux à trois tours avant de céder à la confusion.",
@@ -7536,7 +7536,7 @@ const q9Results = [
   {
     Type: "Dragon",
     Capacité: "Colère",
-    puissance: 120,
+    Puissance: 120,
     Précision: 100,
     Description:
       "Le lanceur enrage et attaque pendant deux ou trois tours\navant de devenir confus.",
@@ -7544,7 +7544,7 @@ const q9Results = [
   {
     Type: "Psy",
     Capacité: "Prescience",
-    puissance: 120,
+    Puissance: 120,
     Précision: 100,
     Description:
       "De l’énergie psychique vient frapper l’ennemi\ndeux tours après l’utilisation de cette capacité.",
@@ -7552,15 +7552,15 @@ const q9Results = [
   {
     Type: "Combat",
     Capacité: "Surpuissance",
-    puissance: 120,
+    Puissance: 120,
     Précision: 100,
     Description:
-      "Une attaque puissante, mais qui baisse l’attaque\net la Défense du lanceur.",
+      "Une attaque puissante, mais qui baisse l’Attaque\net la Défense du lanceur.",
   },
   {
     Type: "Electrik",
     Capacité: "Électacle",
-    puissance: 120,
+    Puissance: 120,
     Précision: 100,
     Description:
       "Le lanceur électrifie son corps avant de charger.\nLe choc blesse aussi gravement le lanceur\net peut paralyser l’ennemi.",
@@ -7568,7 +7568,7 @@ const q9Results = [
   {
     Type: "Combat",
     Capacité: "Close Combat",
-    puissance: 120,
+    Puissance: 120,
     Précision: 100,
     Description:
       "Le lanceur combat au corps à corps sans se protéger.\nBaisse aussi sa Défense et sa Défense Spéciale.",
@@ -7576,7 +7576,7 @@ const q9Results = [
   {
     Type: "Feu",
     Capacité: "Boutefeu",
-    puissance: 120,
+    Puissance: 120,
     Précision: 100,
     Description:
       "Le lanceur s’embrase avant de charger l’ennemi.\nLe choc blesse aussi gravement le lanceur.\nPeut brûler l’ennemi.",
@@ -7584,7 +7584,7 @@ const q9Results = [
   {
     Type: "Vol",
     Capacité: "Rapace",
-    puissance: 120,
+    Puissance: 120,
     Précision: 100,
     Description:
       "Le lanceur replie ses ailes et charge en rase-mottes.\nBlesse gravement le lanceur.",
@@ -7592,7 +7592,7 @@ const q9Results = [
   {
     Type: "Plante",
     Capacité: "Martobois",
-    puissance: 120,
+    Puissance: 120,
     Précision: 100,
     Description:
       "Le lanceur heurte l’ennemi de son corps robuste.\nBlesse aussi gravement le lanceur.",
@@ -7600,7 +7600,7 @@ const q9Results = [
   {
     Type: "Spectre",
     Capacité: "Revenant",
-    puissance: 120,
+    Puissance: 120,
     Précision: 100,
     Description:
       "Le lanceur disparaît et frappe l’ennemi au second tour.\nFonctionne même si l’ennemi se protège.",
@@ -7608,7 +7608,7 @@ const q9Results = [
   {
     Type: "Psy",
     Capacité: "Synchropeine",
-    puissance: 120,
+    Puissance: 120,
     Précision: 100,
     Description:
       "Cette capacité ne peut pas être utilisée.\nIl est recommandé de l’oublier, même s’il sera\nimpossible de se la remémorer une fois oubliée.",
@@ -7616,7 +7616,7 @@ const q9Results = [
   {
     Type: "Normal",
     Capacité: "Peignée",
-    puissance: 120,
+    Puissance: 120,
     Précision: 100,
     Description:
       "Le lanceur donne un coup avec sa tête couronnée\nd’une fière crinière. Blesse aussi légèrement le lanceur.",
@@ -7624,7 +7624,7 @@ const q9Results = [
   {
     Type: "Normal",
     Capacité: "Techno-Buster",
-    puissance: 120,
+    Puissance: 120,
     Précision: 100,
     Description:
       "Le lanceur projette un rayon lumineux sur l’ennemi.\nLe type varie selon le Module que tient le lanceur.",
@@ -7632,7 +7632,7 @@ const q9Results = [
   {
     Type: "Poison",
     Capacité: "Éructation",
-    puissance: 120,
+    Puissance: 120,
     Précision: 90,
     Description:
       "Le lanceur se tourne vers l’ennemi et lui éructe dessus,\ninfligeant des dégâts. Ne fonctionne que si le lanceur\nconsomme la Baie qu’il tient.",
@@ -7640,7 +7640,7 @@ const q9Results = [
   {
     Type: "Vol",
     Capacité: "Draco-Ascension",
-    puissance: 120,
+    Puissance: 120,
     Précision: 100,
     Description:
       "Le Pokémon s’abat à toute vitesse sur la cible\ndepuis les hautes couches de l’atmosphère.\nBaisse la Défense et la Défense Spéciale du lanceur.",
@@ -7648,7 +7648,7 @@ const q9Results = [
   {
     Type: "Normal",
     Capacité: "Coup Varia-Type",
-    puissance: 120,
+    Puissance: 120,
     Précision: 100,
     Description:
       "Le Pokémon s’entoure d’une puissante énergie\navant de foncer sur sa cible. Le type de la capacité\ndépend de la ROM installée.",
@@ -7656,7 +7656,7 @@ const q9Results = [
   {
     Type: "Feu",
     Capacité: "Ballon Brûlant",
-    puissance: 120,
+    Puissance: 120,
     Précision: 90,
     Description:
       "Le lanceur attaque avec un ballon fait à partir\nd’un caillou enflammé. Peut aussi brûler la cible.",
@@ -7664,15 +7664,15 @@ const q9Results = [
   {
     Type: "Roche",
     Capacité: "Laser Météore",
-    puissance: 120,
+    Puissance: 120,
     Précision: 90,
     Description:
-      "Le lanceur concentre l’énergie cosmique au premier\ntour, ce qui augmente son attaque Spéciale, et frappe\nau second.",
+      "Le lanceur concentre l’énergie cosmique au premier\ntour, ce qui augmente son Attaque Spéciale, et frappe\nau second.",
   },
   {
     Type: "Spectre",
     Capacité: "Éclat Spectral",
-    puissance: 120,
+    Puissance: 120,
     Précision: 100,
     Description:
       "Le lanceur attaque l’ennemi avec une multitude\nde petits spectres.",
@@ -7680,7 +7680,7 @@ const q9Results = [
   {
     Type: "Eau",
     Capacité: "Jet de Vapeur",
-    puissance: 110,
+    Puissance: 110,
     Précision: 95,
     Description:
       "Plonge l’ennemi dans une chaleur étouffante.\nPeut le brûler.",
@@ -7688,7 +7688,7 @@ const q9Results = [
   {
     Type: "Dragon",
     Capacité: "Vibrécaille",
-    puissance: 110,
+    Puissance: 110,
     Précision: 100,
     Description:
       "Le lanceur déclenche un vacarme en frottant\nses écailles les unes contre les autres pour attaquer.\nBaisse la Défense du lanceur.",
@@ -7696,7 +7696,7 @@ const q9Results = [
   {
     Type: "Electrik",
     Capacité: "Roue Libre",
-    puissance: 110,
+    Puissance: 110,
     Précision: 100,
     Description:
       "Morpeko libère l’énergie stockée dans ses joues\npour attaquer et augmenter sa Vitesse. Le type de cette\ncapacité change en fonction de la forme de Morpeko.",
@@ -7704,7 +7704,7 @@ const q9Results = [
   {
     Type: "Spectre",
     Capacité: "Esprit Frappeur",
-    puissance: 110,
+    Puissance: 110,
     Précision: 90,
     Description:
       "Le lanceur manipule l’objet tenu par l’ennemi\npour l’attaquer. Échoue si la cible ne tient rien.",
