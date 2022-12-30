@@ -6,20 +6,20 @@ test("La 1er propriété doit s'appeler 'Nom du type'", async () => {
   let queryResults = await executeQuery("./data/pokemonDB.db", q8);
   expect(Object.keys(queryResults[0])[0]).toEqual("Nom du type");
 });
-test("La 2ème propriété doit s'appeler 'Nombre de pokémon'", async () => {
+test("La 2ème propriété doit s'appeler 'Nombre de pokemon'", async () => {
   let queryResults = await executeQuery("./data/pokemonDB.db", q8);
-  expect(Object.keys(queryResults[0])[1]).toEqual("Nombre de pokémon");
+  expect(Object.keys(queryResults[0])[1]).toEqual("Nombre de pokemon");
 });
-test("La 3ème propriété doit s'appeler 'Nombre de pokémon avec le type slot 1'", async () => {
+test("La 3ème propriété doit s'appeler 'Nombre de pokemon avec le type slot 1'", async () => {
   let queryResults = await executeQuery("./data/pokemonDB.db", q8);
   expect(Object.keys(queryResults[0])[2]).toEqual(
-    "Nombre de pokémon avec le type slot 1"
+    "Nombre de pokemon avec le type slot 1"
   );
 });
-test("La 4ème propriété doit s'appeler 'Nombre de pokémon avec le type slot 2'", async () => {
+test("La 4ème propriété doit s'appeler 'Nombre de pokemon avec le type slot 2'", async () => {
   let queryResults = await executeQuery("./data/pokemonDB.db", q8);
   expect(Object.keys(queryResults[0])[3]).toEqual(
-    "Nombre de pokémon avec le type slot 2"
+    "Nombre de pokemon avec le type slot 2"
   );
 });
 test("Les résultats sont corrects et dans le bonne ordre", async () => {
