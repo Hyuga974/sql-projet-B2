@@ -1,7 +1,7 @@
 # Projet SQL B2
 
 Ce repository a pour but de vous permettre de tester vos requêtes SQL pour le projet.
-Il peut aussi servir de rendu pour cela vous devrez changer l'url du repo en suivant ce [tuto](https://devconnected.com/how-to-change-git-remote-origin/) pour le lier avec votre repo de rendu.
+Il peut aussi servir de rendu pour cela vous devrez fork ce repo et le renommer comme demandé dans la consigne pour en faire votre repo de rendu.
 
 ⚠️ Si vous ne le faites pas vous ne pourrez pas push sur notre repo, cela tentera de push sur mon rep et donc ne marchera pas.
 
